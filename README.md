@@ -10,7 +10,7 @@ The ICE includes the curated Lake Baikal radiocarbon dataset (PANGAEA export), a
 
 To execute the notebook directly in your browser **without installing anything**, open:
 
-➡️ **Binder link:** *<insert Binder URL here once repo is on GitHub>*  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samrsnewall/baikal_essd_ice/HEAD)
 
 This launches a fully containerised JupyterLab session with all dependencies and the dataset preloaded.
 
