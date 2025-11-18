@@ -1,0 +1,606 @@
+/* DATA DESCRIPTION:																	
+Citation:	"Newall, Samuel R S; Mackay, Anson W; Piotrowska, Natalia; Blaauw, Maarten (2025): Lake Baikal sediment core AMS radiocarbon data [dataset]. PANGAEA, https://doi.org/10.1594/PANGAEA.973799"																
+Abstract:	"This is a complete database of Lake Baikal sediment core AMS radiocarbon data from papers published before 2025. Most radiocarbon data has already been published but is not easily accessible on a public database. We also provide access to previously unpublished radiocarbon data from cores CON01-603-5 and CON01-605-5. The presented dataset amends previous reporting mistakes on the location of cores, the depth of samples and the Lab ID of some radiocarbon data. The data was collected to investigate the radiocarbon age offset (similar to reservoir age) in Lake Baikal."																
+Keyword(s):	14C; Lake Baikal; Radiocarbon																
+Source:	"Colman, Steven M; Jones, Glenn A; Rubin, Meyer; King, John W; Peck, John A; Orem, William H (1996): AMS radiocarbon analyses from Lake Baikal, Siberia: Challanges of dating sediments from a large, oligotrophic lake. Quaternary Science Reviews, 15(7), 669-684, https://doi.org/10.1016/0277-3791(96)00027-3"																
+	"Demske, Dieter; Heumann, Georg; Granoszewski, Wojciech; Nita, Małgorzata; Mamakowa, Kaziemira; Tarasov, Pavel E; Oberhänsli, Hedi (2005): Late glacial and Holocene vegetation and regional climate variability evidenced in high-resolution pollen records from Lake Baikal. Global and Planetary Change, 46(1-4), 255-279, https://doi.org/10.1016/j.gloplacha.2004.09.020"																
+	"Fedotov, A P; Trunova, V A; Stepanova, O G; Vorobyeva, S S; Parkhomchuk, E V; Krapivina, S M; Zheleznyakova, T O; Legkodymov, A A (2023): Changes in patterns of mineral and chemical elements in bottom sediments of Lake Baikal (Russia) as high-resolution records of moisture for the past 31–16 ka BP. Quaternary International, 644-645, 51-60, https://doi.org/10.1016/j.quaint.2021.05.026"																
+	"Karabanov, Eugene; Williams, Douglas F; Kuzmin, Mikhail I; Sideleva, Valentina; Khursevich, Galina; Prokopenko, Alexander A; Solotchina, Emilia; Tkachenko, Lilia; Fedenya, Svetlana; Kerber, Eugene; Gvozdkov, Alexander; Khlustov, Oleg; Bezrukova, Elena V; Letunova, Polina; Krapivina, Svetlana (2004): Ecological collapse of Lake Baikal and Lake Hovsgol ecosystems during the Last Glacial and consequences for aquatic species diversity. Palaeogeography, Palaeoclimatology, Palaeoecology, 209(1-4), 227-243, https://doi.org/10.1016/j.palaeo.2004.02.017"																
+	"Murakami, Takuma; Takamatsu, Takejiro; Katsuta, Nagayoshi; Takano, Masao; Yamamoto, Koshi; Takahashi, Yoshio; Nakamura, Toshio; Kawai, Takayoshi (2012): Centennial- to millennial-scale climate shifts in continental interior Asia repeated between warm–dry and cool–wet conditions during the last three interglacial states: evidence from uranium and biogenic silica in the sediment of Lake Baikal, southeast Siberia. Quaternary Science Reviews, 52, 49-59, https://doi.org/10.1016/j.quascirev.2012.08.001"																
+	"Nakamura, T; Oda, T; Tanaka, A; Horiuchi, K (2003): High precision 14C age estimation of bottom sediments of Lake Baikal and Lake Hovsgol by AMS, Gekkan Chikyu. Kaiyoshuppasha, Tokyo, Special No.42, 20-31"																
+	"Nara, Fumiko Watanabe; Watanabe, Takahiro; Lougheed, Bryan C; Obrochta, Stephen P (2023): Alternative radiocarbon age-depth model from Lake Baikal sediment: Implications for past hydrological changes for Last Glacial to the Holocene. Radiocarbon, 1-18, https://doi.org/10.1017/RDC.2023.63"																
+	"Nara, Fumiko Watanabe; Watanabe, Takahiro; Nakamura, Toshio; Kakegawa, Takeshi; Katamura, Fumitaka; Shichi, Koji; Takahara, Hikaru; Imai, Akio; Kawai, Takayoshi (2010): Radiocarbon and Stable Carbon Isotope Ratio Data from a 4.7-Mlong Sediment Core of Lake Baikal (Southern Siberia, Russia). Radiocarbon, 52(3), 1449-1457, https://doi.org/10.1017/S0033822200046531"																
+	"Piotrowska, Natalia; Bluszcz, Andrzej; Demske, Dieter; Granoszewski, Wojciech; Heumann, Georg (2004): Extraction and AMS radiocarbon dating of pollen from Lake Baikal sediments. Radiocarbon, 46(1), 181-187, https://doi.org/10.1017/S0033822200039503"																
+	"Swann, George E A; Panizzo, Virginia N; Piccolroaz, Sebastiano; Pashley, Vanessa; Horstwood, Matthew S A; Roberts, Sarah L; Vologina, Elena G; Piotrowska, Natalia; Sturm, Michael; Zhdanov, Andre; Granin, Nikolay; Norman, Charlotte; McGowan, Suzanne; Mackay, Anson W (2020): Changing nutrient cycling in Lake Baikal, the world's oldest lake. Proceedings of the National Academy of Sciences of the United States of America, 117(44), 27211-27217, https://doi.org/10.1073/pnas.2013181117"																
+	"Tani, Yukinori; Kurihara, Kota; Nara, Fumiko Watanabe; Itoh, Nobuyasu; Soma, Mitsuyuki; Soma, Yuko; Tanaka, Atsushi; Yoneda, Minoru; Hirota, Masashi; Shibata, Yasuyuki (2002): Temporal changes in the phytoplankton community of the southern basin of Lake Baikal over the last 24,000 years recorded by photosynthetic pigments in a sediment core. Organic Geochemistry, 33(12), 1621-1634, https://doi.org/10.1016/S0146-6380(02)00107-9"																
+	"Watanabe, Takahiro; Nakamura, Toshio; Kawai, Takayoshi (2007): Radiocarbon dating of sediments from large continental lakes (Lakes Baikal, Hovsgol and Erhel). Nuclear Instruments & Methods in Physics Research Section B-Beam Interactions with Materials and Atoms, 259(1), 565-570, https://doi.org/10.1016/j.nimb.2007.01.200"																
+	"Watanabe, Takahiro; Nakamura, Toshio; Nara, Fumiko Watanabe; Kakegawa, Takeshi; Horiuchi, Kazuho; Senda, Ryoko; Oda, Takefumi; Nishimura, Mitsugu; Matsumoto, Genki I; Kawai, Takayoshi (2009): High-time resolution AMS 14C data sets for Lake Baikal and Lake Hovsgol sediment cores: Changes in radiocarbon age and sedimentation rates during the transition from the last glacial to the Holocene. Quaternary International, 205(1-2), 12-20, https://doi.org/10.1016/j.quaint.2009.02.002"																
+	"Watanabe, Takahiro; Nakamura, Toshio; Nara, Fumiko Watanabe; Kakegawa, Takeshi; Nishimura, Mitsugu; Shimokawara, Makoto; Matsunaka, Tetsuya; Senda, Ryoko; Kawai, Takayoshi (2009): A new age model for the sediment cores from Academician ridge (Lake Baikal) based on high-time-resolution AMS 14C data sets over the last 30 kyr: Paleoclimatic and environmental implications. Earth and Planetary Science Letters, 286(3-4), 347-354, https://doi.org/10.1016/j.epsl.2009.06.046"																
+Further details:	metadata.tab: Metadata. https://download.pangaea.de/reference/131814/attachments/metadata.tab																
+	non_numeric_data.tab: Some poor quality dates that do not have error values (and are therefore unusable) - they are provided solely for completeness. https://download.pangaea.de/reference/130675/attachments/non_numeric_data.tab																
+Coverage:	MEDIAN LATITUDE: 53.187930 * MEDIAN LONGITUDE: 107.372916 * SOUTH-BOUND LATITUDE: 51.583500 * WEST-BOUND LONGITUDE: 104.300030 * NORTH-BOUND LATITUDE: 55.535600 * EAST-BOUND LONGITUDE: 109.536400																
+	DATE/TIME START: 1993-01-01T00:00:00 * DATE/TIME END: 2001-08-03T05:33:00																
+	"MINIMUM DEPTH, sediment/rock: 0.0 m * MAXIMUM DEPTH, sediment/rock: 17.62 m"																
+Event(s):	18-B1 * LATITUDE: 53.559700 * LONGITUDE: 108.010300 * Lake water depth: 345 m * LOCATION: Baikal Lake * METHOD/DEVICE: Box corer (BC) (URI: http://en.wikipedia.org/wiki/Box_corer)																
+	18-P2 * LATITUDE: 53.559700 * LONGITUDE: 108.010300 * Lake water depth: 345 m * Recovery: 8.7 m * LOCATION: Baikal Lake * METHOD/DEVICE: Piston corer (PC)																
+	287-K2 * LATITUDE: 53.420000 * LONGITUDE: 107.780000 * Lake water depth: 300 m * Recovery: 10 m * LOCATION: Baikal Lake * METHOD/DEVICE: Usinger Piston Corer (UPC)																
+	305-A5 * LATITUDE: 52.399720 * LONGITUDE: 106.123610 * Lake water depth: 290 m * Recovery: 2.63 m * LOCATION: Baikal Lake * METHOD/DEVICE: Gravity corer (GC)																
+	307-A3 * LATITUDE: 53.590830 * LONGITUDE: 108.066110 * Lake water depth: 335 m * Recovery: 2.68 m * LOCATION: Baikal Lake * METHOD/DEVICE: Gravity corer (GC)																
+	308-A3 * LATITUDE: 53.415270 * LONGITUDE: 108.317500 * Lake water depth: 1700 m * Recovery: 1.87 m * LOCATION: Baikal Lake * METHOD/DEVICE: Gravity corer (GC)																
+	316-P3 * LATITUDE: 52.439830 * LONGITUDE: 106.150500 * Lake water depth: 300 m * Recovery: 5.08 m * LOCATION: Baikal Lake * METHOD/DEVICE: Piston corer (PC)																
+	316-T3 * LATITUDE: 52.439830 * LONGITUDE: 106.150500 * Lake water depth: 300 m * Recovery: 1.13 m * LOCATION: Baikal Lake * METHOD/DEVICE: Trigger corer (TC)																
+	323-PC1 * LATITUDE: 55.535600 * LONGITUDE: 109.524400 * Lake water depth: 710 m * Recovery: 4.61 m * LOCATION: Baikal Lake * METHOD/DEVICE: Piston corer (PC)																
+	331-P1 * LATITUDE: 53.468800 * LONGITUDE: 107.789700 * Lake water depth: 360 m * Recovery: 2.68 m * LOCATION: Baikal Lake * METHOD/DEVICE: Piston corer (PC)																
+	331-T1 * LATITUDE: 53.468800 * LONGITUDE: 107.789700 * Lake water depth: 360 m * Recovery: 1.05 m * LOCATION: Baikal Lake * METHOD/DEVICE: Trigger corer (TC)																
+	333-P2 * LATITUDE: 53.653000 * LONGITUDE: 108.155830 * Lake water depth: 390 m * Recovery: 4.29 m * LOCATION: Baikal Lake * METHOD/DEVICE: Piston corer (PC)																
+	333-T2 * LATITUDE: 53.653000 * LONGITUDE: 108.155830 * Lake water depth: 390 m * Recovery: 1.2 m * LOCATION: Baikal Lake * METHOD/DEVICE: Trigger corer (TC)																
+	339-B2 * LATITUDE: 52.514170 * LONGITUDE: 106.166000 * Lake water depth: 375 m * Recovery: 0.38 m * LOCATION: Baikal Lake * METHOD/DEVICE: Box corer (BC) (URI: http://en.wikipedia.org/wiki/Box_corer)																
+	339-P2 * LATITUDE: 52.517670 * LONGITUDE: 106.166330 * Lake water depth: 375 m * Recovery: 8.38 m * LOCATION: Baikal Lake * METHOD/DEVICE: Piston corer (PC)																
+	339-T2 * LATITUDE: 52.517670 * LONGITUDE: 106.166330 * Lake water depth: 375 m * Recovery: 0.92 m * LOCATION: Baikal Lake * METHOD/DEVICE: Trigger corer (TC)																
+	340-B1 * LATITUDE: 53.668170 * LONGITUDE: 108.360000 * Lake water depth: 280 m * Recovery: 0.32 m * LOCATION: Baikal Lake * METHOD/DEVICE: Box corer (BC) (URI: http://en.wikipedia.org/wiki/Box_corer)																
+	340-P1 * LATITUDE: 53.667170 * LONGITUDE: 108.361000 * Lake water depth: 280 m * Recovery: 8.31 m * LOCATION: Baikal Lake * METHOD/DEVICE: Piston corer (PC)																
+	340-T1 * LATITUDE: 53.667170 * LONGITUDE: 108.361000 * Lake water depth: 280 m * Recovery: 1.18 m * LOCATION: Baikal Lake * METHOD/DEVICE: Trigger corer (TC)																
+	342-B1 * LATITUDE: 53.399330 * LONGITUDE: 107.589200 * Lake water depth: 240 m * Recovery: 0.29 m * LOCATION: Baikal Lake * METHOD/DEVICE: Box corer (BC) (URI: http://en.wikipedia.org/wiki/Box_corer)																
+	342-P1 * LATITUDE: 53.399330 * LONGITUDE: 107.588170 * Lake water depth: 240 m * Recovery: 8.77 m * LOCATION: Baikal Lake * METHOD/DEVICE: Piston corer (PC)																
+	342-T1 * LATITUDE: 53.399330 * LONGITUDE: 107.588170 * Lake water depth: 240 m * Recovery: 0.59 m * LOCATION: Baikal Lake * METHOD/DEVICE: Trigger corer (TC)																
+	"BAIK13-1C * LATITUDE: 51.767830 * LONGITUDE: 104.416280 * Lake water depth: 1360 m * Recovery: 0.50 m * LOCATION: Lake Baikal, Russia * METHOD/DEVICE: Piston corer, UWITEC (PCUWI)"																
+	"BAIK13-4F * LATITUDE: 51.692720 * LONGITUDE: 104.300030 * Lake water depth: 1360 m * Recovery: 0.33 m * LOCATION: Lake Baikal, Russia * METHOD/DEVICE: Piston corer, UWITEC (PCUWI) * COMMENT: Sediment core collected in 2013 AD."																
+	"BarguzinCore18 * LATITUDE: 53.424183 * LONGITUDE: 108.820730 * Lake water depth: 41 m * Recovery: 2.11 m * LOCATION: Lake Baikal, Russia * METHOD/DEVICE: Gravity corer (GC)"																
+	"BDP93-1 * LATITUDE: 52.517500 * LONGITUDE: 106.151670 * DATE/TIME: 1993-01-01T00:00:00 * Lake water depth: 344 m * LOCATION: Lake Baikal, Russia * CAMPAIGN: BDP1993 * BASIS: Sampling/drilling in lake * METHOD/DEVICE: Drilling/drill rig (DRILL)"																
+	"BDP93-2 * LATITUDE: 52.500000 * LONGITUDE: 106.167000 * DATE/TIME: 1993-01-01T00:00:00 * Lake water depth: 344 m * Recovery: 98 m * LOCATION: Lake Baikal, Russia * CAMPAIGN: BDP1993 * BASIS: Sampling/drilling in lake * METHOD/DEVICE: Drilling/drill rig (DRILL)"																
+	"BDP96-1 * LATITUDE: 53.696660 * LONGITUDE: 108.351660 * Lake water depth: 321 m * Recovery: 192 m * LOCATION: Lake Baikal, Russia * CAMPAIGN: BDP1996 * BASIS: Sampling/drilling in lake * METHOD/DEVICE: Drilling/drill rig (DRILL)"																
+	"BDP96-2 * LATITUDE: 53.696660 * LONGITUDE: 108.351660 * Lake water depth: 321 m * Recovery: 100 m * LOCATION: Lake Baikal, Russia * CAMPAIGN: BDP1996 * BASIS: Sampling/drilling in lake * METHOD/DEVICE: Drilling/drill rig (DRILL)"																
+	BDP97-1 * LATITUDE: 51.850600 * LONGITUDE: 105.546900 * Lake water depth: 1450 m * LOCATION: Baikal Lake																
+	BDP98-1 * LATITUDE: 53.744400 * LONGITUDE: 108.408300 * Lake water depth: 325 m * LOCATION: Baikal Lake																
+	BSS06-G2 * LATITUDE: 52.456028 * LONGITUDE: 106.129472 * Lake water depth: 360 m * Recovery: 0.39 m * LOCATION: Baikal Lake * METHOD/DEVICE: Gravity corer (GC)																
+	"CON01-603-5 * LATITUDE: 53.954600 * LONGITUDE: 108.913700 * DATE/TIME: 2001-07-29T05:20:00 * Lake water depth: 386 m * Penetration: 0.39 m * LOCATION: Lake Baikal, Russia * CAMPAIGN: CON01-6 (URI: hdl:10013/epic.40408.d001) * BASIS: Vereshchagin * METHOD/DEVICE: Kasten corer (KAL)"																
+	"CON01-605-3 * LATITUDE: 51.584900 * LONGITUDE: 104.854800 * DATE/TIME: 2001-07-31T08:18:00 * Lake water depth: 675 m * Penetration: 10.45 m * LOCATION: Lake Baikal, Russia * CAMPAIGN: CON01-6 (URI: hdl:10013/epic.40408.d001) * BASIS: Vereshchagin * METHOD/DEVICE: Piston corer Meischner large (KL_Mg)"																
+	"CON01-605-5 * LATITUDE: 51.583500 * LONGITUDE: 104.851800 * DATE/TIME: 2001-08-01T02:55:00 * Lake water depth: 665 m * Penetration: 0.19 m * LOCATION: Lake Baikal, Russia * CAMPAIGN: CON01-6 (URI: hdl:10013/epic.40408.d001) * BASIS: Vereshchagin * METHOD/DEVICE: Kasten corer (KAL)"																
+	"CON01-606-3 * LATITUDE: 52.083900 * LONGITUDE: 105.865400 * DATE/TIME: 2001-08-03T05:33:00 * Lake water depth: 130 m * Penetration: 3.35 m * LOCATION: Lake Baikal, Russia * CAMPAIGN: CON01-6 (URI: hdl:10013/epic.40408.d001) * BASIS: Vereshchagin * METHOD/DEVICE: Kasten corer (KAL)"																
+	"VER-98-1St5PC * LATITUDE: 53.742500 * LONGITUDE: 108.409720 * DATE/TIME: 1998-09-05T00:00:00 * Lake water depth: 330 m * Recovery: 9.93 m * LOCATION: Lake Baikal, Russia * CAMPAIGN: VER-98-1 (URI: hdl:10013/epic.40409.d001) * BASIS: Vereshchagin * METHOD/DEVICE: Piston corer Meischner small (KL_Mk) * COMMENT: core barrel length: 11.50 m/trigger core recovery: 1.9 m"																
+	Ver.99_G-6 (Ver.99 G-6) * LATITUDE: 52.088900 * LONGITUDE: 105.840000 * Lake water depth: 200 m * Recovery: 3.6 m * LOCATION: Baikal Lake * METHOD/DEVICE: Gravity corer (GC)																
+	Ver93-2_St.4-PC (Ver93-2 St.4-PC) * LATITUDE: 53.560000 * LONGITUDE: 108.015800 * Lake water depth: 356 m * LOCATION: Baikal Lake * METHOD/DEVICE: Piston corer (PC)																
+	VER93-2_St.24GC (VER93-2 St.24GC) * LATITUDE: 52.520000 * LONGITUDE: 106.150000 * Lake water depth: 355 m * Recovery: 4.725 m * LOCATION: Baikal Lake * METHOD/DEVICE: Gravity corer (GC)																
+	Ver94-5_St.16-PC (Ver94-5 St.16-PC) * LATITUDE: 53.713900 * LONGITUDE: 108.382200 * Lake water depth: 310 m * Recovery: 11.1 m * LOCATION: Baikal Lake * METHOD/DEVICE: Piston corer (PC)																
+	Ver94-5_St.16-Pilot (Ver94-5 St.16-Pilot) * LATITUDE: 53.713900 * LONGITUDE: 108.382200 * Lake water depth: 310 m * Recovery: 1.2 m * LOCATION: Baikal Lake * METHOD/DEVICE: Pilot corer (PILOT)																
+	Ver94-5_St.19-PC (Ver94-5 St.19-PC) * LATITUDE: 53.558100 * LONGITUDE: 108.014200 * Lake water depth: 350 m * Recovery: 8.8 m * LOCATION: Baikal Lake * METHOD/DEVICE: Piston corer (PC)																
+	Ver94-5_St.22-GC (Ver94-5 St.22-GC) * LATITUDE: 55.317200 * LONGITUDE: 109.536400 * Lake water depth: 825 m * LOCATION: Baikal Lake * METHOD/DEVICE: Gravity corer (GC)																
+	Ver96-2_St.3-GC (Ver96-2 St.3-GC) * LATITUDE: 53.697800 * LONGITUDE: 108.351700 * Lake water depth: 320 m * Recovery: 5 m * LOCATION: Baikal Lake * METHOD/DEVICE: Gravity corer (GC)																
+	Ver96-2_St.7-PC (Ver96-2 St.7-PC) * LATITUDE: 53.560600 * LONGITUDE: 108.097200 * LOCATION: Baikal Lake * METHOD/DEVICE: Piston corer (PC)																
+	Ver96-2_St.7-Pilot (Ver96-2 St.7-Pilot) * LATITUDE: 53.560600 * LONGITUDE: 108.097200 * Recovery: 2.4 m * LOCATION: Baikal Lake * METHOD/DEVICE: Pilot corer (PILOT)																
+	Ver97-1_St.6 (Ver97-1 St.6) * LATITUDE: 53.680000 * LONGITUDE: 108.330000 * Lake water depth: 335 m * Recovery: 9.2 m * LOCATION: Baikal Lake																
+	VER98-1_St.5GC (VER98-1 St.5GC) * LATITUDE: 53.742500 * LONGITUDE: 108.409700 * Lake water depth: 325 m * Recovery: 1.76 m * LOCATION: Baikal Lake * METHOD/DEVICE: Gravity corer (GC)																
+	VER98-1_St.6GC (VER98-1 St.6GC) * LATITUDE: 53.694200 * LONGITUDE: 108.350300 * Lake water depth: 335 m * Recovery: 1.76 m * LOCATION: Baikal Lake * METHOD/DEVICE: Gravity corer (GC)																
+	"VER99G12 (VER99-G12) * LATITUDE: 52.526667 * LONGITUDE: 106.152222 * Lake water depth: 356 m * LOCATION: Lake Baikal, Russia * METHOD/DEVICE: Sediment corer (SEDCO) * COMMENT: July 1999"																
+Parameter(s):	"Event label (Event) * PI: Newall, Samuel R S (https://orcid.org/0009-0007-2049-4481, newall@ucsb.edu)"																
+	"Core (Core) * PI: Newall, Samuel R S (https://orcid.org/0009-0007-2049-4481, newall@ucsb.edu)"																
+	"Laboratory code/label (Lab label) * PI: Newall, Samuel R S (https://orcid.org/0009-0007-2049-4481, newall@ucsb.edu)"																
+	"Core section label (Sec label) * PI: Newall, Samuel R S (https://orcid.org/0009-0007-2049-4481, newall@ucsb.edu)"																
+	"Depth, top/min [m] (Depth top) * PI: Newall, Samuel R S (https://orcid.org/0009-0007-2049-4481, newall@ucsb.edu)"																
+	"Depth, bottom/max [m] (Depth bot) * PI: Newall, Samuel R S (https://orcid.org/0009-0007-2049-4481, newall@ucsb.edu)"																
+	"DEPTH, sediment/rock [m] (Depth sed) * GEOCODE * PI: Newall, Samuel R S (https://orcid.org/0009-0007-2049-4481, newall@ucsb.edu) * COMMENT: middle"																
+	"Depth, corrected [m] (Depth corr) * PI: Newall, Samuel R S (https://orcid.org/0009-0007-2049-4481, newall@ucsb.edu)"																
+	"Thickness [cm] (Thick) * PI: Newall, Samuel R S (https://orcid.org/0009-0007-2049-4481, newall@ucsb.edu)"																
+	"Age, dated material (Dated material) * PI: Newall, Samuel R S (https://orcid.org/0009-0007-2049-4481, newall@ucsb.edu)"																
+	"Age, dated [ka BP] (Age dated) * PI: Newall, Samuel R S (https://orcid.org/0009-0007-2049-4481, newall@ucsb.edu) * METHOD/DEVICE: Age, 14C AMS (URI: https://doi.org/10.1146/annurev.ns.30.120180.002253)"																
+	"Age, dated, error [±] (Age dated e) * PI: Newall, Samuel R S (https://orcid.org/0009-0007-2049-4481, newall@ucsb.edu) * METHOD/DEVICE: Age, 14C AMS (URI: https://doi.org/10.1146/annurev.ns.30.120180.002253)"																
+	"Stable isotopes, method (Stable isotopes meth) * PI: Newall, Samuel R S (https://orcid.org/0009-0007-2049-4481, newall@ucsb.edu) * COMMENT: δ13C method"																
+	"δ13C [‰ PDB] (δ13C) * PI: Newall, Samuel R S (https://orcid.org/0009-0007-2049-4481, newall@ucsb.edu)"																
+	"δ13C, error [±] (δ13C e) * PI: Newall, Samuel R S (https://orcid.org/0009-0007-2049-4481, newall@ucsb.edu)"																
+	"Carbon yield [%] (Carb yield) * PI: Newall, Samuel R S (https://orcid.org/0009-0007-2049-4481, newall@ucsb.edu)"																
+	"Reference/source (Reference) * PI: Newall, Samuel R S (https://orcid.org/0009-0007-2049-4481, newall@ucsb.edu)"																
+	"Comment (Comment) * PI: Newall, Samuel R S (https://orcid.org/0009-0007-2049-4481, newall@ucsb.edu)"																
+License:	Creative Commons Attribution 4.0 International (CC-BY-4.0) (URI: https://creativecommons.org/licenses/by/4.0/)																
+Status:	Curation Level: Enhanced curation (URI: https://wiki.pangaea.de/wiki/Curation_levels)																
+Size:	5352 data points																
+*/																	
+Event	Core	Lab label	Sec label	Depth top [m]	Depth bot [m]	Depth sed [m]	Depth corr [m]	Thick [cm]	Dated material	Age dated [ka BP]	Age dated e [±]	Stable isotopes meth	δ13C [‰ PDB]	δ13C e [±]	Carbon Content [%]	Reference	Comment
+18-B1	18-B1	OS-01333	18B-C1A			0.175			TOC	9.54	0.07	Standard Mass Spectrometry	-26.86			Colman et al. (1996)	"The sample code is reported in Colman et al. (1996) as being '1813-C1A', however S. Colman confirmed this should be '18B-C1A'"
+18-P2	18-P2	OS-01326	18P-C1A			0.375			TOC	19.1	0.11	Estimated	-25			Colman et al. (1996)	
+18-P2	18-P2	OS-01346	18P-C2A			0.525			TOC	17.65	0.095	Estimated	-25			Colman et al. (1996)	
+18-P2	18-P2	OS-01345	18P-C3A			0.925			TOC	17.6	0.29	Estimated	-25			Colman et al. (1996)	
+18-P2	18-P2	OS-01319	18P-C4A			2.825			TOC	23.1	0.49	Estimated	-25			Colman et al. (1996)	
+18-P2	18-P2	OS-02074	18P-C5A			3.125			TOC	26.3	0.2	Estimated	-25			Colman et al. (1996)	
+18-P2	18-P2	NUTA-2606	St.18-1			0.375			TOC	20.35	0.22				0.31	Nakamura et al. (2003)	
+18-P2	18-P2	NUTA-2607	St.18-3			1.075			TOC	28.5	0.26				0.42	Nakamura et al. (2003)	
+18-P2	18-P2	NUTA-2598	St.18-5			2.025			TOC	24.72	0.19				0.23	Nakamura et al. (2003)	
+18-P2	18-P2	NUTA-2611	St.18-7			2.675			TOC	23.87	0.21				0.36	Nakamura et al. (2003)	
+18-P2	18-P2	NUTA-2612	St.18-9			3.525			TOC	29.89	0.2				0.35	Nakamura et al. (2003)	
+18-P2	18-P2	NUTA-2660	St.18-10			4.325			TOC	20.24	0.48				0.41	Nakamura et al. (2003)	
+18-P2	18-P2	NUTA-2661	St.18-11			4.475			TOC	29.35	0.45				0.24	Nakamura et al. (2003)	
+18-P2	18-P2	NUTA-2662	St.18-12			5.075			TOC	21.22	0.22				1.59	Nakamura et al. (2003)	
+287-K2	287-K2	OS-00466	287-R1			0.05			TOC	0.87	0.04	Standard Mass Spectrometry	-27.48			Colman et al. (1996)	
+287-K2	287-K2	OS-00467	287-R2			0.9			TOC	21.9	0.1	Standard Mass Spectrometry	-27.36			Colman et al. (1996)	
+287-K2	287-K2	OS-00469	287-R3			1.9			TOC	22.1	0.23	Standard Mass Spectrometry	-27.36			Colman et al. (1996)	
+287-K2	287-K2	OS-00471	287-R4			2.9			TOC	29.8	0.21	Standard Mass Spectrometry	-27.23			Colman et al. (1996)	
+287-K2	287-K2	OS-01344	287-R5			4			TOC	14.75	0.12	Estimated	-25			Colman et al. (1996)	
+305-A5	305-A5	OS-00100	305-C1A			0.02			TOC	1.34	0.065	Estimated	-28			Colman et al. (1996)	
+305-A5	305-A5	OS-00826	305-C2A			0.2			TOC	3.25	0.04	Standard Mass Spectrometry	-26.68			Colman et al. (1996)	
+305-A5	305-A5	OS-00101	305-C3A			0.4			TOC	3.71	0.05	Estimated	-28			Colman et al. (1996)	
+305-A5	305-A5	OS-00104	305-C7A			0.7			TOC	5.91	0.07	Estimated	-28			Colman et al. (1996)	
+305-A5	305-A5	OS-00102	305-C4A			1			TOC	7.68	0.17	Estimated	-28			Colman et al. (1996)	
+305-A5	305-A5	OS-00827	305-C8A			1.4			TOC	11	0.055	Standard Mass Spectrometry	-27.91			Colman et al. (1996)	
+305-A5	305-A5	OS-00103	305-C5A			1.8			TOC	13.5	0.39	Estimated	-28			Colman et al. (1996)	
+305-A5	305-A5	OS-00804	305-C10A			1.91			TOC	15.7	0.045	Standard Mass Spectrometry	-26.36			Colman et al. (1996)	
+305-A5	305-A5	OS-00125	305-C6A			2.6			TOC	15	0.37	Estimated	-28			Colman et al. (1996)	
+307-A3	307-A3	OS-00105	307-C1A			0.04			TOC	1.83	0.12	Estimated	-28			Colman et al. (1996)	
+307-A3	307-A3	OS-00106	307-C3A			0.34			TOC	13.55	0.14	Estimated	-28			Colman et al. (1996)	
+307-A3	307-A3	OS-00107	307-C4A			0.64			TOC	17.45	0.15	Estimated	-28			Colman et al. (1996)	
+307-A3	307-A3	OS-00811	307-C7A			1.01			TOC	29.1	0.19	Estimated	-24			Colman et al. (1996)	
+307-A3	307-A3	OS-00805	307-C8A			1.49			TOC	35.8	0.3	Estimated	-24			Colman et al. (1996)	
+307-A3	307-A3	OS-00810	307-C9A			2.01			TOC	30	0.39	Estimated	-24			Colman et al. (1996)	
+308-A3	308-A3	OS-00114	308-C1A			0.02			TOC	1.67	0.15	Estimated	-28			Colman et al. (1996)	
+308-A3	308-A3	OS-00111	308-C5B1			0.26			POM	3.86	0.085	Standard Mass Spectrometry	-27.43			Colman et al. (1996)	
+308-A3	308-A3	OS-00127	308-C5B2			0.26			POM	4.2	0.065	Standard Mass Spectrometry	-27.43			Colman et al. (1996)	
+308-A3	308-A3	OS-00064	308-C5B3			0.26			POM	4.06	0.28	Estimated	-28			Colman et al. (1996)	
+308-A3	308-A3	OS-00824	308-C5B4			0.26			POM	4.28	0.04	Estimated	-28			Colman et al. (1996)	
+308-A3	308-A3	OS-00112	308-C5C1			0.26			FOM	4.17	0.11	Estimated	-28			Colman et al. (1996)	
+308-A3	308-A3	OS-00126	308-C5C2			0.26			FOM	3.61	0.045	Estimated	-28			Colman et al. (1996)	
+308-A3	308-A3	OS-00113	308-C7A			0.9			TOC	4.49	0.12	Estimated	-28			Colman et al. (1996)	
+308-A3	308-A3	OS-00110	308-C7B			0.9			POM	4.77	0.24	Estimated	-28			Colman et al. (1996)	
+308-A3	308-A3	OS-00825	308-C7C			0.9			FOM	4.95	0.055	Standard Mass Spectrometry	-26.83			Colman et al. (1996)	
+308-A3	308-A3	OS-00108	308-C3A			1.2			TOC	5.13	0.065	Standard Mass Spectrometry	-29.4			Colman et al. (1996)	
+308-A3	308-A3	OS-00109	308-C4A			1.8			TOC	8	0.14	Estimated	-28			Colman et al. (1996)	
+316-P3	316-P3	OS-00462	316-C4A			0.04	0.83		TOC	5.97	0.055	Estimated	-29.4			Colman et al. (1996)	
+316-P3	316-P3	OS-00821	316-C4C			0.04	0.83		FOM	1.97	0.05	Standard Mass Spectrometry	-8.68			Colman et al. (1996)	
+316-P3	316-P3	OS-00806	316-C5A			0.18	0.97		TOC	20.1	0.065	Estimated	-4			Colman et al. (1996)	
+316-P3	316-P3	OS-00461	316-C6A			0.4	1.19		TOC	26.2	0.15	Estimated	-29.4			Colman et al. (1996)	
+316-P3	316-P3	OS-00808	316-C7A			0.75	1.54		TOC	40.7	1	Standard Mass Spectrometry	-27.11			Colman et al. (1996)	
+316-P3	316-P3	OS-00460	316-C8A			1.22	2.01		TOC	34	0.33	Estimated	-29.4			Colman et al. (1996)	
+316-P3	316-P3	OS-00809	316-C9A			1.72	2.51		TOC	42.5	1.8	Standard Mass Spectrometry	-25.24			Colman et al. (1996)	
+316-P3	316-P3	OS-00465	316-C10A			2.2	2.99		TOC	28.3	0.25	Estimated	-29.4			Colman et al. (1996)	
+316-P3	316-P3	OS-00470	316-C12A			3.82	4.61		TOC	32.2	0.23	Estimated	-29.4			Colman et al. (1996)	
+316-T3	316-T3	OS-00464	316-C1A			0.02			TOC	1.35	0.045	Estimated	-28			Colman et al. (1996)	
+316-T3	316-T3	OS-00822	316-C1C			0.02			FOM	1.97	0.07	Estimated	-24			Colman et al. (1996)	
+316-T3	316-T3	OS-0007	316-2A			0.22			TOC	2.73	0.035	Standard Mass Spectrometry	-26.57			Colman et al. (1996)	
+316-T3	316-T3	OS-02512	316-C13A			0.5			TOC	6.33	0.095	Standard Mass Spectrometry	-27.95			Colman et al. (1996)	
+316-T3	316-T3	OS-02513	316-C14A			0.69			TOC	8.82	0.12	Standard Mass Spectrometry	-28.33			Colman et al. (1996)	
+316-T3	316-T3	OS-00463	316-C3A			0.95			TOC	12.95	0.07	Estimated	-29.4			Colman et al. (1996)	
+323-PC1	323-PC1	NUTA-1926	St.323-1	0.115	0.125	0.12	0.82	1	TOC	6.15	0.12				2.02	Ogura (1992); Nakamura et al. (2003); Ishiwatari et al. (2005)	
+323-PC1	323-PC1	NUTA-1927	St.323-2	0.535	0.54	0.5375	1.2375	0.5	TOC	8.77	0.14				2.08	Ogura (1992); Nakamura et al. (2003); Ishiwatari et al. (2005)	
+323-PC1	323-PC1	NUTA-1935	St.323-3	1.015	1.055	1.035	1.735	1	TOC	14.66	0.19				0.95	Ogura (1992); Nakamura et al. (2003); Ishiwatari et al. (2005)	
+323-PC1	323-PC1	NUTA-1936	St.323-4	2.215	2.22	2.2175	2.9175	0.5	TOC	22.12	0.35				0.26	Ogura (1992); Nakamura et al. (2003); Ishiwatari et al. (2005)	
+323-PC1	323-PC1	NUTA-1937	St.323-5	4.515	4.52	4.5175	5.2175	0.5	TOC	25.25	0.49				0.28	Ogura (1992); Nakamura et al. (2003); Ishiwatari et al. (2005)	
+323-PC1	323-PC1	NUTA-2119	St.323-6	0	0.07	0.035	0.735	7	Lipid fraction	3.29	0.15					Nakamura et al. (2003)	
+323-PC1	323-PC1	NUTA-2122	St.323-7	0.5	0.54	0.52	1.22	4	Lipid fraction	5.39	0.19					Nakamura et al. (2003)	
+323-PC1	323-PC1	NUTA-3259	St.323-8	0.075	0.083	0.079	0.779	0.8	TOC	3.67	0.1		-27.1		1.5	Nakamura et al. (2003)	
+323-PC1	323-PC1	NUTA-3283	St.323-9	0.193	0.203	0.198	0.898	1	TOC	4.092	0.07		-27.7		1.53	Nakamura et al. (2003)	
+323-PC1	323-PC1	NUTA-3290	St.323-10	0.38	0.39	0.385	1.085	1	TOC	4.203	0.08		28.5		1.69	Nakamura et al. (2003)	
+323-PC1	323-PC1	NUTA-3286	St.323-11	0.66	0.67	0.665	1.365	1	TOC	7.215	0.074		-30		2.31	Nakamura et al. (2003)	
+323-PC1	323-PC1	NUTA-3100	St.323-12	0.775	0.81	0.7925	1.4925	0.5	Wood	7.744	0.11					Nakamura et al. (2003)	
+323-PC1	323-PC1	NUTA-3287	St.323-13	1.16	1.17	1.165	1.865	1	TOC	12.84	0.1		-27.6		1.18	Nakamura et al. (2003)	
+323-PC1	323-PC1	NUTA-3291	St.323-14	1.59	1.6	1.595	2.295	1	TOC	17.2	0.12		-21.7		0.34	Nakamura et al. (2003)	
+323-PC1	323-PC1	NUTA-3296	St.323-15	2.8	2.81	2.805	3.505	1	TOC	21.73	1.13		-21.2		0.3	Nakamura et al. (2003)	
+323-PC1	323-PC1	NUTA-3500	St.323-16	3.44	3.45	3.445	4.145	1	TOC	22.85	0.14		-21.4		0.28	Nakamura et al. (2003)	
+331-P1	331-P1	OS-00457	331-C3A			0.18	0.97		TOC	22	0.1	Estimated	-29.4			Colman et al. (1996)	
+331-P1	331-P1	OS-00456	331-C4A			0.5	1.29		TOC	21.8	0.17	Estimated	-29.4			Colman et al. (1996)	
+331-P1	331-P1	OS-00813	331-C9A			0.53	1.32		TOC	23.3	0.14	Estimated	-24			Colman et al. (1996)	
+331-P1	331-P1	OS-00812	331-C5A1			0.7	1.49		TOC	26.6	0.64	Estimated	-24			Colman et al. (1996)	
+331-P1	331-P1	OS-01338	331-C5A2			0.7	1.49		TOC	22	0.11	Standard Mass Spectrometry	-22.81			Colman et al. (1996)	
+331-P1	331-P1	OS-01325	331-C5BB			0.7	1.49		POM	18.9	0.14	Standard Mass Spectrometry	-27.76			Colman et al. (1996)	
+331-P1	331-P1	OS-00455	331-C6A			0.92	1.71		TOC	30.5	0.16	Estimated	-29.4			Colman et al. (1996)	
+331-P1	331-P1	OS-01329	331-C6B			0.92	1.71		POM	21.4	0.11	Standard Mass Spectrometry	-25.3			Colman et al. (1996)	
+331-T1	331-T1	OS-00459	331-C1A			0.02			TOC	1.09	0.04	Standard Mass Spectrometry	-28.12			Colman et al. (1996)	
+331-T1	331-T1	OS-00458	331-C2A			0.18			TOC	5.44	0.045	Standard Mass Spectrometry	-30.26			Colman et al. (1996)	
+333-P2	333-P2	OS-00453	333-C4A			0.22			TOC	6.27	0.045	Standard Mass Spectrometry	-29.85			Colman et al. (1996)	
+333-P2	333-P2	OS-00452	333-C5A			0.56			TOC	12.65	0.095	Estimated	-29.4			Colman et al. (1996)	
+333-P2	333-P2	OS-00815	333-C6A			0.98			TOC	22.3	0.095	Estimated	-24			Colman et al. (1996)	
+333-P2	333-P2	OS-02187	333-C14A			1.43			TOC	23.9	0.22	Standard Mass Spectrometry	-23.71			Colman et al. (1996)	
+333-P2	333-P2	OS-00451	333-C7A			1.82			TOC	30.2	0.18	Estimated	-29.4			Colman et al. (1996)	
+333-P2	333-P2	OS-00816	333-C8A			2.22			TOC	33.2	0.5	Estimated	-24			Colman et al. (1996)	
+333-P2	333-P2	OS-00450	333-C9A			3.62			TOC	33.4	0.21	Estimated	-29.4			Colman et al. (1996)	
+333-P2	333-P2	OS-00820	333-C9C			3.62			TOC	28	0.26	Estimated	-24			Colman et al. (1996)	
+333-T2	333-T2	OS-00454	333-C1A			0.02	0.08		TOC	1.37	0.04	Standard Mass Spectrometry	-27.68			Colman et al. (1996)	
+333-T2	333-T2	OS-00814	333-C2A			0.1	0.16		TOC	3.43	0.04	Standard Mass Spectrometry	-25.62			Colman et al. (1996)	
+333-T2	333-T2	OS-02183	333-C10A			0.35	0.41		TOC	13.45	0.07	Standard Mass Spectrometry	-23.64			Colman et al. (1996)	
+333-T2	333-T2	OS-00299	333-C3A			0.52	0.58		TOC	17.75	0.18	Estimated	-29.4			Colman et al. (1996)	
+333-T2	333-T2	OS-02184	333-C11A			0.75	0.81		TOC	13.05	0.075	Standard Mass Spectrometry	-23.83			Colman et al. (1996)	
+333-T2	333-T2	OS-02185	333-C12A			0.95	1.01		TOC	19.95	0.15	Standard Mass Spectrometry	-23.49			Colman et al. (1996)	
+333-T2	333-T2	OS-02186	333-C13A			1.16	1.22		TOC	18.7	0.12	Estimated	-23.6			Colman et al. (1996)	
+339-B2	339-B2	CAMS-7582	339B-C2A			0.005			TOC	1.27	0.07	Estimated	-25			Colman et al. (1996)	
+339-B2	339-B2	OS-00817	339B-C1A			0.11			TOC	2.17	0.025	Standard Mass Spectrometry	-27.42			Colman et al. (1996)	The depth measurement for this sample was erroneously written as 1.1 in Colman et al. (1996) and has been corrected here after consultation with S. Colman.
+339-P2	339-P2	CAMS-7572	339P-C1A			0.01	1.65		TOC	3.84	0.07	Estimated	25			Colman et al. (1996)	
+339-P2	339-P2	CAMS-8897	339P-C2A			0.11	1.75		TOC	12.07	0.16	Estimated	25			Colman et al. (1996)	"The middle depth for this is erroneously reported as 1.1cm in Colman et al. (1996), but has been corrected here after consultation with S. Colman."
+339-P2	339-P2	CAMS-7577	339P-C3A			0.41	2.05		TOC	19.25	0.42	Estimated	25			Colman et al. (1996)	
+339-P2	339-P2	CAMS-7583	339P-C4A			1.01	2.65		TOC	22.5	0.64	Estimated	25			Colman et al. (1996)	
+339-P2	339-P2	CAMS-7570	339P-C5A			2.61	4.25		TOC	23.65	0.74	Estimated	25			Colman et al. (1996)	
+339-T2	339-T2	CAMS-7573	339T-C1A			0.01			TOC	2.05	0.07	Estimated	-25			Colman et al. (1996)	
+339-T2	339-T2	CAMS-7578	339T-C2A			0.21			TOC	2.64	0.07	Estimated	-25			Colman et al. (1996)	
+339-T2	339-T2	OS-02170	339T-C5A			0.35			TOC	3.41	0.025	Standard Mass Spectrometry	-26.9			Colman et al. (1996)	
+339-T2	339-T2	CAMS-7567	339T-C3A1			0.51			TOC	4.48	0.08	Estimated	-25			Colman et al. (1996)	
+339-T2	339-T2	CAMS-7568	339T-C3A2			0.51			TOC	4.55	0.07	Estimated	-25			Colman et al. (1996)	
+339-T2	339-T2	OS-02182	339T-C6A			0.7			TOC	5.51	0.03	Standard Mass Spectrometry	-29.31			Colman et al. (1996)	
+339-T2	339-T2	CAMS-7569	339T-C4A			0.89			TOC	7.17	0.09	Estimated	-25			Colman et al. (1996)	
+340-B1	340-B1	CAMS-8896	340B-C1A			0.005			TOC	1.16	0.06	Estimated	-25			Colman et al. (1996)	
+340-P1	340-P1	CAMS-8891	340P-C1A			0.02	2.12		TOC	8.14	0.1	Estimated	-25			Colman et al. (1996)	
+340-P1	340-P1	OS-02172	340P-C2A			0.2	2.3		TOC	22	0.23	Estimated	-26			Colman et al. (1996)	
+340-P1	340-P1	OS-02173	340P-C3A			0.4	2.5		TOC	23.4	0.29	Estimated	-26			Colman et al. (1996)	
+340-P1	340-P1	OS-02181	340P-C4A			0.6	2.7		TOC	25.1	0.24	Standard Mass Spectrometry	-24.18			Colman et al. (1996)	
+340-T1	340-T1	CAMS-7585	340T-C1A			0.02			TOC	1.6	0.1	Estimated	-25			Colman et al. (1996)	
+340-T1	340-T1	CAMS-7576	340T-C2A			0.21			TOC	5.79	0.03	Estimated	-25			Colman et al. (1996)	
+340-T1	340-T1	OS-02179	340T-C5A			0.36			TOC	8.7	0.035	Estimated	-26			Colman et al. (1996)	
+340-T1	340-T1	CAMS-8893	340T-C3A			0.51			TOC	11.03	0.14	Estimated	-25			Colman et al. (1996)	
+340-T1	340-T1	OS-02280	340T-C6A			0.66			TOC	14.05	0.065	Standard Mass Spectrometry	-28.93			Colman et al. (1996)	
+340-T1	340-T1	OS-02171	340T-C7A			0.8			TOC	14.7	0.08	Estimated	-25			Colman et al. (1996)	
+340-T1	340-T1	CAMS-8890	340T-C4A			1.01			TOC	13.72	0.02	Estimated	-25			Colman et al. (1996)	
+342-B1	342-B1	CAMS-7574	342B-C1A			0.005			TOC	0.38	0.07	Estimated	-25			Colman et al. (1996)	
+342-P1	342-P1	CAMS-7584	342P-C1A			0.02	1.27		TOC	5.4	0.08	Estimated	-25			Colman et al. (1996)	
+342-P1	342-P1	OS-02175	342P-C3A			0.205	1.455		TOC	24.2	0.31	Estimated	-29.5			Colman et al. (1996)	
+342-P1	342-P1	CAMS-7586	342P-C2A			0.51	1.76		TOC	24.63	0.84	Estimated	-25			Colman et al. (1996)	
+342-P1	342-P1	OS-02176	342P-C4A			0.705	1.955		TOC	31	0.32	Standard Mass Spectrometry	-28.9			Colman et al. (1996)	
+342-P1	342-P1	OS-02177	342P-C5A			1	2.25		TOC	32	0.36	Standard Mass Spectrometry	-27.73			Colman et al. (1996)	
+342-P1	342-P1	OS-02178	342P-C6A			1.3	2.55		TOC	30.6	0.33	Standard Mass Spectrometry	-26.64			Colman et al. (1996)	
+342-T1	342-T1	CAMS-7575	342T-C1A			0.02			TOC	0.87	0.07	Estimated	-25			Colman et al. (1996)	
+342-T1	342-T1	OS-00818	342T-C5A			0.02			TOC	1.15	0.025	Estimated	-24			Colman et al. (1996)	
+342-T1	342-T1	CAMS-7588	342T-C2A			0.16			TOC	1.57	0.1	Estimated	-25			Colman et al. (1996)	
+342-T1	342-T1	CAMS-8892	342T-C3A			0.31			TOC	3.24	0.07	Estimated	-25			Colman et al. (1996)	
+342-T1	342-T1	OS-02174	342T-C6A			0.46			TOC	4.62	0.03	Standard Mass Spectrometry	-29.66			Colman et al. (1996)	
+342-T1	342-T1	CAMS-7587	342T-C4A			0.56			TOC	6.22	0.09	Estimated	-25			Colman et al. (1996)	
+BAIK13-1C	BAIK13-1C	GdA-4920	BAIK13C_13.6-13.8	0.136	0.138	0.137		0.2	TOC	2.445	0.03	AMS	-35.3	0.6	2.9	Swann et al. (2020)	
+BAIK13-1C	BAIK13-1C	GdA-4921	BAIK13C_21.6-21.8	0.216	0.218	0.217		0.2	TOC	4.135	0.03	AMS	-31.7	0.7	2.1	Swann et al. (2020)	
+BAIK13-4F	BAIK13-4F	GdA-4925	BAIK134F_17.0-17.2	0.17	0.172	0.171		0.2	TOC	1.835	0.03	AMS	-25.1	1.3	4.4	Swann et al. (2020)	
+BarguzinCore18	BarguzinCore18	GV02040		0.02	0.03	0.025		1	Bulk Silty Clay	13.6	0.146					Fedotov et al. (2023)	
+BarguzinCore18	BarguzinCore18	GV02041		0.45	0.46	0.455		1	Bulk Silty Clay	21.67	0.168					Fedotov et al. (2023)	
+BarguzinCore18	BarguzinCore18	GV02042		0.8	0.81	0.805		1	Bulk Silty Clay	20.999	0.152					Fedotov et al. (2023)	
+BarguzinCore18	BarguzinCore18	GV02043		1.69	1.7	1.695		1	Bulk Silty Clay	25.61	0.242					Fedotov et al. (2023)	
+BarguzinCore18	BarguzinCore18	GV02044		1.1	1.11	1.105		1	Bulk Silty Clay	22.202	0.217					Fedotov et al. (2023)	
+BarguzinCore18	BarguzinCore18	GV02045		1.39	1.4	1.395		1	Bulk Silty Clay	22.28	0.195					Fedotov et al. (2023)	
+BarguzinCore18	BarguzinCore18	GV02046		1.85	1.86	1.855		1	Bulk Silty Clay	25.89	0.258					Fedotov et al. (2023)	
+BarguzinCore18	BarguzinCore18	GV02047		2.02	2.03	2.025		1	Bulk Silty Clay	25.347	0.215					Fedotov et al. (2023)	
+BDP93-1	BDP93-1	CAMS-7592	931-C1B			0.315			Wood	2.45	0.08	Estimated	-25			Colman et al. (1996)	
+BDP93-1	BDP93-1	CAMS-7589	931-C2A			0.845			TOC	5.02	0.09	Estimated	-25			Colman et al. (1996)	
+BDP93-1	BDP93-1	CAMS-7590	931-C3A			1.835			TOC	11.39	0.15	Estimated	-25			Colman et al. (1996)	
+BDP93-1	BDP93-1	CAMS-7593	931-C4A			2.595			TOC	15.07	0.24	Estimated	-25			Colman et al. (1996)	
+BDP93-1	BDP93-1	CAMS-8898	931-C5A			3.87			TOC	21.74	0.58	Estimated	-25			Colman et al. (1996)	
+BDP93-1	BDP93-1	CAMS-8899	931-C6A			4.45			TOC	22.43	0.63	Estimated	-25			Colman et al. (1996)	
+BDP93-1	BDP93-1	CAMS-8900	931-C7A			5.12			TOC	29.6	1.6	Estimated	-25			Colman et al. (1996)	
+BDP93-1	BDP93-1	CAMS-8903	931-C9A			13.59			TOC	35.2	3.2	Estimated	-25			Colman et al. (1996)	
+BDP93-1	BDP93-1	CAMS-8902	931-C10A			16.85			TOC	30.7	1.8	Estimated	-25			Colman et al. (1996)	
+BDP93-1	BDP93-1	CAMS-8901	931-C11A			17.62			TOC	33.1		Estimated	-25			Colman et al. (1996)	
+BDP93-1	BDP93-1	NUTA-2775	BDP93-1-1	0.05	0.06	0.055		1	TOC	1.94	0.09				2.13	Nakamura et al. (2003)	
+BDP93-1	BDP93-1	NUTA-2664	BDP93-1-2	0.44	0.45	0.445		1	TOC	2.42	0.19				2.06	Nakamura et al. (2003)	
+BDP93-1	BDP93-1	NUTA-2665	BDP93-1-3	1.19	1.2	1.195		1	TOC	5.71	0.18				3.47	Nakamura et al. (2003)	
+BDP93-1	BDP93-1	NUTA-2666	BDP93-1-4	2.24	2.25	2.245		1	TOC	11.51	0.13				1.61	Nakamura et al. (2003)	
+BDP93-1	BDP93-1	NUTA-2673	BDP93-1-5	2.95	2.96	2.955		1	TOC	17.17	0.14				0.45	Nakamura et al. (2003)	
+BDP93-1	BDP93-1	NUTA-2776	BDP93-1-6			4.17			TOC	21.28	0.14				0.98	Nakamura et al. (2003)	
+BDP93-1	BDP93-1	NUTA-2674	BDP93-1-7			4.85			TOC	22.32	0.19				0.86	Nakamura et al. (2003)	
+BDP93-1	BDP93-1	NUTA-2791	BDP93-1-8			5.32			TOC	24.68	0.2				0.77	Nakamura et al. (2003)	
+BDP93-1	BDP93-1	NUTA-2675	BDP93-1-9	7.79	7.8	7.795		1	TOC	25.71	0.24				0.88	Nakamura et al. (2003)	
+BDP93-1	BDP93-1	NUTA-2790	BDP93-1-10			10.62			TOC	27.31	0.24				0.56	Nakamura et al. (2003)	
+BDP93-1	BDP93-1	NUTA-2777	BDP93-1-11			12.03			TOC	30.61	0.24				0.95	Nakamura et al. (2003)	
+BDP93-2	BDP93-2	OS-02514	932-C1A			0.008			TOC	2	0.045	Standard Mass Spectrometry	-26.96			Colman et al. (1996)	
+BDP93-2	BDP93-2	OS-02515	932-C2A			0.3075			TOC	3.08	0.04	Standard Mass Spectrometry	-27.43			Colman et al. (1996)	
+BDP93-2	BDP93-2	OS-02516	932-C3A			0.6125			TOC	3.8	0.045	Standard Mass Spectrometry	-27.41			Colman et al. (1996)	
+BDP93-2	BDP93-2	OS-02517	932-C4A			0.9035			TOC	5.53	0.07	Standard Mass Spectrometry	-28.61			Colman et al. (1996)	
+BDP93-2	BDP93-2	OS-02518	932-C5A			1.305			TOC	8.02	0.045	Standard Mass Spectrometry	-28.3			Colman et al. (1996)	
+BDP93-2	BDP93-2	OS-02519	932-C6A			2.07			TOC	12.4	0.08	Standard Mass Spectrometry	-27.56			Colman et al. (1996)	
+BDP93-2	BDP93-2	OS-02520	932-C7A			2.382			TOC	13.75	0.075	Standard Mass Spectrometry	-28.14			Colman et al. (1996)	
+BDP93-2	BDP93-2	OS-02556	932-C8A			2.71			TOC	17.35	0.1	Standard Mass Spectrometry	-26.18			Colman et al. (1996)	
+BDP93-2	BDP93-2	OS-02521	932-C9A			3.008			TOC	17.5	0.12	Standard Mass Spectrometry	-25.82			Colman et al. (1996)	
+BDP93-2	BDP93-2	OS-02522	932-C10A			3.334			TOC	20.9	0.14	Standard Mass Spectrometry	-25.88			Colman et al. (1996)	
+BDP93-2	BDP93-2	OS-02523	932-C11A			3.789			TOC	23	0.16	Standard Mass Spectrometry	-26.79			Colman et al. (1996)	
+BDP93-2	BDP93-2	OS-02524	932-C12A			4.107			TOC	22.3	0.12	Standard Mass Spectrometry	-27.03			Colman et al. (1996)	
+BDP93-2	BDP93-2	OS-02525	932-C13A			4.421			TOC	23.5	0.14	Standard Mass Spectrometry	-26.82			Colman et al. (1996)	
+BDP93-2	BDP93-2	OS-02526	932-C14A			4.741			TOC	24.8	0.17	Standard Mass Spectrometry	-26.48			Colman et al. (1996)	
+BDP93-2	BDP93-2	OS-02527	932-C15A			5.079			TOC	24.1	0.14	Estimated	-27			Colman et al. (1996)	
+BDP93-2	BDP93-2	OS-02554	932-C16A			5.737			TOC	30.5	0.28	Standard Mass Spectrometry	-27.02			Colman et al. (1996)	
+BDP93-2	BDP93-2	OS-02555	932-C17A			6.338			TOC	33.9	0.33	Standard Mass Spectrometry	-27.55			Colman et al. (1996)	
+BDP93-2	BDP93-2	NUTA-3297	BDP93-2-4	0.45	0.467	0.4585		1.7	TOC	3.8	0.07		-26.1		1.94	Nakamura et al. (2003)	
+BDP93-2	BDP93-2	NUTA-3298	BDP93-2-6	0.745	0.765	0.755		2	TOC	4.37	0.07		-27.84		3.06	Nakamura et al. (2003)	
+BDP93-2	BDP93-2	NUTA-3307	BDP93-2-10	1.898	1.91	1.904		1.2	TOC	10.9	0.08		-29.38		2.29	Nakamura et al. (2003)	
+BDP93-2	BDP93-2	NUTA-3308	BDP93-2-12	2.218	2.235	2.2265		1.7	TOC	13.67	0.1		-29.61		1.27	Nakamura et al. (2003)	
+BDP93-2	BDP93-2	NUTA-3309	BDP93-2-14	2.541	2.561	2.551		2	TOC	15.5	0.1		-27.93		0.73	Nakamura et al. (2003)	
+BDP93-2	BDP93-2	NUTA-3319	BDP93-2-16	2.849	2.866	2.8575		1.7	TOC	18.95	0.1		-25.24		0.35	Nakamura et al. (2003)	
+BDP93-2	BDP93-2	NUTA-3302	BDP93-2-18	3.164	3.184	3.174		2	TOC	19.78	0.19		-25.04		0.45	Nakamura et al. (2003)	
+BDP93-2	BDP93-2	NUTA-3303	BDP93-2-18*	3.164	3.184	3.174		2	TOC	20.55	0.13		-25.04		0.45	Nakamura et al. (2003)	
+BDP93-2	BDP93-2	NUTA-3320	BDP93-2-20	3.623	3.638	3.6305		1.5	TOC	21.44	0.13		-27.12		0.59	Nakamura et al. (2003)	
+BDP93-2	BDP93-2	NUTA-3304	BDP93-2-24	4.245	4.262	4.2535		1.7	TOC	25.78	0.17		-26.06		0.59	Nakamura et al. (2003)	
+BDP93-2	BDP93-2	NUTA-3321	BDP93-2-26	4.56	4.579	4.5695		1.9	TOC	26.6	0.17		-26.79		0.7	Nakamura et al. (2003)	
+BDP93-2	BDP93-2	NUTA-3305	BDP93-2-28	4.894	4.91	4.902		1.6	TOC	28.2	0.21		-26.28		0.79	Nakamura et al. (2003)	
+BDP93-2	BDP93-2	NUTA-3669	BDP93-2-32	6.03	6.05	6.04		2	TOC	36.36	0.36		-26.26		0.77	Nakamura et al. (2003)	
+BDP93-2	BDP93-2	NUTA-3670	BDP93-2-34	6.633	6.654	6.6435		2.1	TOC	38.71	0.35		-25.53		0.49	Nakamura et al. (2003)	
+BDP96-1	BDP96-1	NUTA2-0092	BDP96-1-1	0.09	0.11	0.1	6.43	2	TOC	35.73	0.45		-27.1		0.53	Nakamura et al. (2003)	
+BDP96-1	BDP96-1	NUTA2-0093	BDP96-1-2	0.19	0.21	0.2	6.53	2	TOC	37.3	0.52		-27.8		0.85	Nakamura et al. (2003)	
+BDP96-1	BDP96-1	NUTA2-0095	BDP96-1-5	0.49	0.51	0.5	6.83	2	TOC	38.41	0.57		-28.1		0.97	Nakamura et al. (2003)	
+BDP96-1	BDP96-1	NUTA-5225	BDP96-1-6	0.59	0.61	0.6	6.93	2	TOC	30.59	0.51		-25.9		0.34	Nakamura et al. (2003)	
+BDP96-1	BDP96-1	NUTA2-0059	BDP96-1*-6	0.59	0.61	0.6	6.93	2	TOC	37.63	0.78		-25.5		0.34	Nakamura et al. (2003)	
+BDP96-1	BDP96-1	NUTA-5226	BDP96-1-7	0.69	0.71	0.7	7.03	2	TOC	31.13	0.59		-28.2		0.6	Nakamura et al. (2003)	
+BDP96-1	BDP96-1	NUTA2-0060	BDP96-1-7*	0.69	0.71	0.7	7.03	2	TOC	34.74	0.65		-27.9		0.6	Nakamura et al. (2003)	
+BDP96-2	BDP96-2	NUTA2-0096	BDP96-2-1	0.3	0.32	0.31	1.25	2	TOC	30.4	0.33		-23.7		0.44	Nakamura et al. (2003)	
+BDP96-2	BDP96-2	NUTA2-0097	BDP96-2-2	0.4	0.42	0.41	1.35	2	TOC	35.21	0.46		-23.8		0.48	Nakamura et al. (2003)	
+BDP97-1	BDP97-1	NUTA2-0011	BDP97-1(BS1-001)			0			TOC	5.1	0.06		-28.3		2.65	Nakamura et al. (2003)	
+BDP97-1	BDP97-1	NUTA2-0028	BDP97-2(BS1-061)			1.443			TOC	5.51	0.09		-27.1		1.55	Nakamura et al. (2003)	
+BDP97-1	BDP97-1	NUTA2-0029	BDP97-3(BS2-009)			3.53			TOC	9.29	0.11		-28.7		1.74	Nakamura et al. (2003)	
+BDP97-1	BDP97-1	NUTA2-0012	BDPP97-4(BS2-093)			5.57			TOC	7.09	0.07		-27.6		1.96	Nakamura et al. (2003)	
+BDP97-1	BDP97-1	NUTA2-0030	BDP97-5(BS2-181)			7.735			TOC	7.83	0.1		-28.3		1.74	Nakamura et al. (2003)	
+BDP98-1	BDP98-1	NUTA2-0014	BDP-98-1			0.1			TOC	5.083	0.065		-27.2		1.01	Nakamura et al. (2003)	
+BDP98-1	BDP98-1	NUTA2-0018	BDP-98-2			0.3			TOC	7.978	0.058		-28.6		1.98	Nakamura et al. (2003)	
+BDP98-1	BDP98-1	NUTA2-0020	BDP-98-3			0.5			TOC	12.735	0.074		-27.3		1.23	Nakamura et al. (2003)	
+BDP98-1	BDP98-1	NUTA2-0019	BDP-98-4			0.94			TOC	14.592	0.074		-28.8		0.91	Nakamura et al. (2003)	
+BDP98-1	BDP98-1	NUTA2-0021	BDP-98-5			1.14			TOC	20.791	0.116		-21.6		0.3	Nakamura et al. (2003)	
+BDP98-1	BDP98-1	NUTA2-0013	BDP-98-6			1.34			TOC	21.368	0.185		-23.2		0.3	Nakamura et al. (2003)	
+BDP98-1	BDP98-1	NUTA2-0026	BDP-98-7			1.54			TOC	24.411	0.304		-23.2		0.3	Nakamura et al. (2003)	
+BDP98-1	BDP98-1	NUTA2-0022	BDP-98-8			1.76			TOC	32.611	0.256		23.3		0.44	Nakamura et al. (2003)	
+BDP98-1	BDP98-1	NUTA2-0027	BDP-98-9			1.96			TOC	29.386	0.406		23.6		0.39	Nakamura et al. (2003)	
+BDP98-1	BDP98-1	NUTA2-0023	BDP-98-10			2.16			TOC	36.029	0.335		-23.6		0.41	Nakamura et al. (2003)	
+BDP98-1	BDP98-1	NUTA2-0066	BDP-98-11			2.36			TOC	40.888	0.946		-22.6		0.44	Nakamura et al. (2003)	
+BDP98-1	BDP98-1	NUTA2-0067	BDP-98-12			2.615			TOC	37.998	0.741		-23.1		0.4	Nakamura et al. (2003)	
+BDP98-1	BDP98-1	NUTA2-0068	BDP-98-13			2.86			TOC	43.147	1.179		-22.4		0.33	Nakamura et al. (2003)	
+BDP98-1	BDP98-1	NUTA2-0069	BDP-98-14			3.06			TOC	39.688	0.861		-20.8		0.22	Nakamura et al. (2003)	
+BDP98-1	BDP98-1	NUTA2-0070	BDP-98-15			3.26			TOC	38.847	0.777		-22		0.28	Nakamura et al. (2003)	
+BDP98-1	BDP98-1	NUTA2-0071	BDP-98-16			3.46			TOC	42.806	1.118		-22.4		0.4	Nakamura et al. (2003)	
+BDP98-1	BDP98-1	NUTA2-0072	BDP-98-17			3.66			TOC	47.653	1.787		-24.4		0.74	Nakamura et al. (2003)	
+BSS06-G2	BSS06-G2	NUTA2-13217	BS719	0	0.01	0.005		1	TOC	1.418	0.036	AMS	-28.6			Murakami et al. (2012)	
+BSS06-G2	BSS06-G2	NUTA2-13218	BS720	0.1	0.11	0.105		1	TOC	2.96	0.031	AMS	-25.9			Murakami et al. (2012)	
+BSS06-G2	BSS06-G2	NUTA2-13219	BS721	0.2	0.21	0.205		1	TOC	3.654	0.033	AMS	-25.9			Murakami et al. (2012)	
+BSS06-G2	BSS06-G2	NUTA2-13220	BS722	0.3	0.31	0.305		1	TOC	4.214	0.04	AMS	-29.7			Murakami et al. (2012)	
+BSS06-G2	BSS06-G2	NUTA2-13221	BS723	0.38	0.39	0.385		1	TOC	5.934	0.036	AMS	-29.1			Murakami et al. (2012)	
+CON01-603-5	CON01-603-5	GdA-1370		0	0.04	0.02		4	TOC	1.51	0.03	AMS	-24.4	0.7	1.7	This study	
+CON01-603-5	CON01-603-5	GdA-1371		0.18	0.22	0.2		4	TOC	4.68	0.04	AMS	-30.5	0.1	1.24	This study	
+CON01-603-5	CON01-603-5	GdA-1372		0.24	0.28	0.26		4	TOC	5	0.035	AMS	-30.3	0.1	1.38	This study	
+CON01-603-5	CON01-603-5	GdA-1373		0.32	0.36	0.34		4	TOC	6.13	0.045	AMS	-32.2	0.2	3.03	This study	
+CON01-603-5	CON01-603-5	GdA-1374		0.39	0.43	0.41		4	TOC	7.26	0.045	AMS	-34.6	1.8	2.42	This study	
+CON01-603-5	CON01-603-5	GdA-1375		0.54	0.58	0.56		4	TOC	8.9	0.045	AMS	-34.5	0.2	2.1	This study	
+CON01-603-5	CON01-603-5	GdA-1376		0.6	0.64	0.62		4	TOC	9.38	0.055	AMS	-32.7	0.1	2.28	This study	
+CON01-603-5	CON01-603-5	GdA-1377		0.7	0.76	0.73		6	TOC	10.84	0.06	AMS	-31.6	0.1	1.74	This study	
+CON01-603-5	CON01-603-5	GdA-1378		0.78	0.84	0.81		6	TOC	12.17	0.09	AMS	-30.8	0.2	0.56	This study	
+CON01-603-5	CON01-603-5	GdA-1379		0.86	0.92	0.89		6	TOC	11.92	0.06	AMS	-33.7	0.2	1.36	This study	
+CON01-603-5	CON01-603-5	GdA-247	LBF-AMS-1	0	0.04	0.02		4	Pollen Concentrate	1.235	0.025	AMS	-25.2	0.3	89	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-603-5	CON01-603-5	GdA-248	LBF-AMS-2	0.18	0.22	0.2		4	Pollen Concentrate	4.06	0.03	AMS	-22.8	0.3	75	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-603-5	CON01-603-5	GdA-249	LBF-AMS-3	0.24	0.28	0.26		4	Pollen Concentrate	4.955	0.03	AMS	-25	0.2	77	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-603-5	CON01-603-5	GdA-250	LBF-AMS-4	0.32	0.36	0.34		4	Pollen Concentrate	5.335	0.03	AMS	-24.5	0.2	73	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-603-5	CON01-603-5	GdA-251	LBF-AMS-5	0.39	0.43	0.41		4	Pollen Concentrate	6.63	0.035	AMS	-26.2	0.4	53	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-603-5	CON01-603-5	GdA-252	LBF-AMS-6	0.54	0.58	0.56		4	Pollen Concentrate	8.57	0.04	AMS	-25.3	0.3	69	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-603-5	CON01-603-5	GdA-253	LBF-AMS-7	0.6	0.64	0.62		4	Pollen Concentrate	8.69	0.05	AMS	-28.7	0.9	40	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-603-5	CON01-603-5	GdA-257	LBF-AMS-8	0.7	0.76	0.73		6	Pollen Concentrate	10.25	0.05	AMS	-24.2	0.8	43	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-603-5	CON01-603-5	GdA-258	LBF-AMS-9	0.78	0.84	0.81		6	Pollen Concentrate	11.09	0.08	AMS	-47	2.1	80	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-603-5	CON01-603-5	GdA-259	LBF-AMS-10	0.86	0.92	0.89		6	Pollen Concentrate	11.96	0.05	AMS	-26.5	0.6	59	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-605-3	CON01-605-3	GdA-338		0.12	0.18	0.15	1.54	6	Pollen Concentrate	8.81	0.05					Demske et al. (2005)	
+CON01-605-3	CON01-605-3	GdA-339		0.48	0.56	0.52	1.91	8	Pollen Concentrate	10.34	0.06					Demske et al. (2005)	
+CON01-605-3	CON01-605-3	GdA-340		0.65	0.73	0.69	2.08	8	Pollen Concentrate	10.73	0.06					Demske et al. (2005)	
+CON01-605-3	CON01-605-3	GdA-341		0.9	0.98	0.94	2.33	8	Pollen Concentrate	11.82	0.07					Demske et al. (2005)	
+CON01-605-3	CON01-605-3	GdA-342		1.16	1.24	1.2	2.59	8	Pollen Concentrate	13.34	0.13					Demske et al. (2005)	
+CON01-605-5	CON01-605-5	GdA-260	LBB-AMS-1	0	0.04	0.02	0.145	4	Pollen Concentrate	1.95	0.035	AMS	-27.2	0.5	73	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-605-5	CON01-605-5	GdA-261	LBB-AMS-2	0.2	0.24	0.22	0.345	4	Pollen Concentrate	2.375	0.025	AMS	-26.1	0.4	73	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-605-5	CON01-605-5	GdA-263	LBB-AMS-3	0.32	0.35	0.335	0.46	3	Pollen Concentrate	2.945	0.03	AMS	-26.1	0.7	58	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-605-5	CON01-605-5	GdA-264	LBB-AMS-4	0.56	0.59	0.575	0.7	3	Pollen Concentrate	4.53	0.04	AMS	-24.7	0.7	62	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-605-5	CON01-605-5	GdA-265	LBB-AMS-5	0.77	0.8	0.785	0.91	3	Pollen Concentrate	5.455	0.035	AMS	-21.5	0.5	65	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-605-5	CON01-605-5	GdA-266	LBB-AMS-6	0.89	0.92	0.905	1.03	3	Pollen Concentrate	6.17	0.04	AMS	-23.9	1.1	65	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-605-5	CON01-605-5	GdA-267	LBB-AMS-7	1.01	1.04	1.025	1.15	3	Pollen Concentrate	6.7	0.04	AMS	-20.9	0.5	75	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-605-5	CON01-605-5	GdA-268	LBB-AMS-8	1.21	1.24	1.225	1.35	3	Pollen Concentrate	7.76	0.04	AMS	-22	0.6	79	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-605-5	CON01-605-5	GdA-269	LBB-AMS-9	1.38	1.41	1.395	1.52	3	Pollen Concentrate	8.62	0.04	AMS	-20.1	0.9	66	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-605-5	CON01-605-5	GdA-271	LBB-AMS-10	1.45	1.48	1.465	1.59	3	Pollen Concentrate	8.75	0.05	AMS	-26.2	6.7	71	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-605-5	CON01-605-5	GdA-272	LBB-AMS-11	1.59	1.63	1.61	1.735	4	Pollen Concentrate	9.47	0.05	AMS	-23	0.5	69	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-605-5	CON01-605-5	GdA-270	LBB-AMS-12	1.715	1.755	1.735	1.86	4	Pollen Concentrate	10.03	0.05	AMS	-22.3	0.3	62	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-605-5	CON01-605-5	GdA-710		0.02	0.025	0.0225	0.1475	0.5	TOC	2.105	0.03	AMS	-29.3	1.8	0.79	This study	
+CON01-605-5	CON01-605-5	GdA-711		0.22	0.225	0.2225	0.3475	0.5	TOC	3.25	0.035	AMS	-27.5	1.1	0.77	This study	
+CON01-605-5	CON01-605-5	GdA-712		0.335	0.34	0.3375	0.4625	0.5	TOC	3.9	0.04	AMS	-26.8	0.1	1.22	This study	
+CON01-605-5	CON01-605-5	GdA-713		0.575	0.58	0.5775	0.7025	0.5	TOC	5.185	0.035	AMS	-23.5	3.5	1.65	This study	
+CON01-605-5	CON01-605-5	GdA-714		0.785	0.79	0.7875	0.9125	0.5	TOC	6.68	0.04	AMS	-40.3	0.8	1.04	This study	
+CON01-605-5	CON01-605-5	GdA-715		0.905	0.91	0.9075	1.0325	0.5	TOC	6.66	0.04	AMS	-28.8	0.5	1.63	This study	
+CON01-605-5	CON01-605-5	GdA-716		1.025	1.03	1.0275	1.1525	0.5	TOC	8.12	0.05	AMS	-31.3	0.2	2.26	This study	
+CON01-605-5	CON01-605-5	GdA-815		1.225	1.23	1.2275	1.3525	0.5	TOC	8.25	0.045	AMS	-38.1	0.8	2.17	This study	
+CON01-605-5	CON01-605-5	GdA-717		1.395	1.4	1.3975	1.5225	0.5	TOC	9.085	0.05	AMS	-30.4	1.4	1.54	This study	
+CON01-605-5	CON01-605-5	GdA-718		1.465	1.47	1.4675	1.5925	0.5	TOC	9.38	0.045	AMS	-30.1	0.2	1.25	This study	
+CON01-605-5	CON01-605-5	GdA-719		1.61	1.615	1.6125	1.7375	0.5	TOC	11.225	0.055	AMS	-29.6	0.6	1.6	This study	
+CON01-605-5	CON01-605-5	GdA-720		1.735	1.74	1.7375	1.8625	0.5	TOC	10.215	0.05	AMS	-33.8	0.2	1.03	This study	
+CON01-606-3	CON01-606-3	GdA-217	LBK-AMS1	0.29	0.32	0.305		3	Pollen Concentrate	2.425	0.04		-35.2	0.6	62	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-606-3	CON01-606-3	GdA-219	LBK-AMS2	0.44	0.46	0.45		2	Pollen Concentrate	3.2	0.045		-29.3	0.7	48	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-606-3	CON01-606-3	GdA-231	LBK-AMS-3a	0.56	0.57	0.565		1	Pollen Concentrate	3.85	0.035		-25.9	0.1	65	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-606-3	CON01-606-3	GdA-232	LBK-AMS-3b	0.57	0.58	0.575		1	Pollen Concentrate	3.985	0.04		-30	0.8	64	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-606-3	CON01-606-3	GdA-220	LBK-AMS-4	0.66	0.68	0.67		2	Pollen Concentrate	5.52	0.045		-28.8	0.4	40	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-606-3	CON01-606-3	GdA-225	LBK-AMS-5a	0.8	0.81	0.805		1	Pollen Concentrate	9.35	0.06		-28.3	0.4	60	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-606-3	CON01-606-3	GdA-226	LBK-AMS-5b	0.81	0.82	0.815		1	Pollen Concentrate	11.71	0.07		-34.4	0.7	73	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-606-3	CON01-606-3	GdA-233	LBK-AMS-6	0.84	0.86	0.85		2	Pollen Concentrate	11.32	0.11		-44.9	0.4	60	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-606-3	CON01-606-3	GdA-218	LBK-AMS-7	0.89	0.93	0.91		4	Pollen Concentrate	12.2	0.07		-29.6	0.6	84	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-606-3	CON01-606-3	GdA-224	LBK-AMS-8	1	1.04	1.02		4	Pollen Concentrate	15.25	0.21		-52.3	2.6	19	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-606-3	CON01-606-3	GdA-223	LBK-AMS-9	1.08	1.12	1.1		4	Pollen Concentrate	15.04	0.09		-27.4	0.6	65	Piotrowska et al. (2004); Demske et al. (2005)	
+CON01-606-3	CON01-606-3	GdA-222	LBK-AMS-10	1.16	1.24	1.2		6	Pollen Concentrate	20.92	0.16		33.5	0.8	65	Piotrowska et al. (2004); Demske et al. (2005)	
+Ver.99_G-6	Ver.99 G-6	TERRA-b011300a07	G6-1	0	0.03	0.015	0.115	3	TOC	1.851	0.182	AMS	-25.2	3.5		Tani et al. (2002)	
+Ver.99_G-6	Ver.99 G-6	TERRA-b011300a08	G6-25	0.78	0.83	0.805	0.905	5	TOC	6.377	0.129	AMS	-24.6	3.9		Tani et al. (2002)	
+Ver.99_G-6	Ver.99 G-6	TERRA-b011300a09	G6-41	1.58	1.63	1.605	1.705	5	TOC	13.023	0.153	AMS	-23.2	3.6		Tani et al. (2002)	
+Ver.99_G-6	Ver.99 G-6	TERRA-b011300a10	G6-57	2.38	2.43	2.405	2.505	5	TOC	18.999	0.205	AMS	-19.9	2.9		Tani et al. (2002)	
+Ver.99_G-6	Ver.99 G-6	TERRA-b011300a15	G6-71	3.08	3.13	3.105	3.205	5	TOC	22.174	0.249	AMS	-21.4	2		Tani et al. (2002)	
+VER93-2_St.24GC	VER93-2 St.24GC	OS-25976				0.045			TOC	1.72	0.055	IRMS	-26.2			Karabanov et al. (2004); Tarasov et al. (2007)	
+VER93-2_St.24GC	VER93-2 St.24GC	OS-25977				0.09			TOC	2.65	0.035	IRMS	-25.8			Karabanov et al. (2004); Tarasov et al. (2007)	
+VER93-2_St.24GC	VER93-2 St.24GC	OS-25978				0.3			TOC	3.52	0.035	IRMS	-26.5			Karabanov et al. (2004); Tarasov et al. (2007)	
+VER93-2_St.24GC	VER93-2 St.24GC	OS-25979				0.39			TOC	3.8	0.035	IRMS	-25.3			Karabanov et al. (2004); Tarasov et al. (2007)	
+VER93-2_St.24GC	VER93-2 St.24GC	OS-25980				0.615			TOC	4.92	0.04	IRMS	-27.7			Karabanov et al. (2004); Tarasov et al. (2007)	
+VER93-2_St.24GC	VER93-2 St.24GC	OS-25981				0.82			TOC	5.68	0.04	IRMS	-28.2			Karabanov et al. (2004); Tarasov et al. (2007)	
+VER93-2_St.24GC	VER93-2 St.24GC	OS-25982				0.985			TOC	6.61	0.05	IRMS	-28.5			Karabanov et al. (2004); Tarasov et al. (2007)	
+VER93-2_St.24GC	VER93-2 St.24GC	OS-25983				1.245			TOC	7.86	0.06	IRMS	-28.1			Karabanov et al. (2004); Tarasov et al. (2007)	
+VER93-2_St.24GC	VER93-2 St.24GC	OS-25984				1.495			TOC	9.52	0.05	IRMS	-28.2			Karabanov et al. (2004); Tarasov et al. (2007)	
+VER93-2_St.24GC	VER93-2 St.24GC	OS-25985				1.795			TOC	10.65	0.055	IRMS	-29.2			Karabanov et al. (2004); Tarasov et al. (2007)	
+VER93-2_St.24GC	VER93-2 St.24GC	OS-25986				1.945			TOC	12.42	0.07	IRMS	-26			Karabanov et al. (2004); Tarasov et al. (2007)	
+VER93-2_St.24GC	VER93-2 St.24GC	OS-25987				2.28			TOC	13.21	0.065	IRMS	-28.7			Karabanov et al. (2004); Tarasov et al. (2007)	
+VER93-2_St.24GC	VER93-2 St.24GC	OS-25988				2.665			TOC	15.77	0.08	IRMS	-25.8			Karabanov et al. (2004); Tarasov et al. (2007)	
+VER93-2_St.24GC	VER93-2 St.24GC	OS-25989				3.065			TOC	17.63	0.11	IRMS	-25			Karabanov et al. (2004)	
+VER93-2_St.24GC	VER93-2 St.24GC	OS-25990				3.35			TOC	20.62	0.095	IRMS	-24.6			Karabanov et al. (2004)	
+Ver93-2_St.4-PC	Ver93-2 St.4-PC	NUTA-3313	St.4 PC-1	0.04	0.06	0.05		2	TOC	-1.71	0.07		-27.3		1.77	Nakamura et al. (2003)	
+Ver93-2_St.4-PC	Ver93-2 St.4-PC	NUTA-3314	St.4 PC-2	0.11	0.13	0.12		2	TOC	-2.239	0.06		-22.5		0.36	Nakamura et al. (2003)	
+Ver93-2_St.4-PC	Ver93-2 St.4-PC	NUTA-3368	St.4 PC-3	0.91	0.93	0.92		2	TOC	2.54	0.07		-22.2		0.29	Nakamura et al. (2003)	
+Ver93-2_St.4-PC	Ver93-2 St.4-PC	NUTA-3328	St.4 PC-4	1.37	1.39	1.38		2	TOC	1.28	0.05		-23.9		0.37	Nakamura et al. (2003)	
+Ver93-2_St.4-PC	Ver93-2 St.4-PC	NUTA-3329	St.4 PC-5	2.47	2.49	2.48		2	TOC	7.43	0.07		-23.8		0.24	Nakamura et al. (2003)	
+Ver93-2_St.4-PC	Ver93-2 St.4-PC	NUTA-2270	St.4PC-6	3.45	3.47	3.46		2	TOC	1.34	0.1		-22.9		0.2	Nakamura et al. (2003)	
+Ver93-2_St.4-PC	Ver93-2 St.4-PC	NUTA-3330	St.4 PC-7	4.86	4.88	4.87		2	TOC	2.69	0.06		-25.4		0.75	Nakamura et al. (2003)	
+Ver93-2_St.4-PC	Ver93-2 St.4-PC	NUTA-3371	St.4 PC-8	5.72	5.74	5.73		2	TOC	0.81	0.07		-22.3		0.25	Nakamura et al. (2003)	
+Ver93-2_St.4-PC	Ver93-2 St.4-PC	NUTA-3372	St.4 PC-9	6.52	6.54	6.53		2	TOC	-13.365	0.08		-22.4		0.24	Nakamura et al. (2003)	
+Ver93-2_St.4-PC	Ver93-2 St.4-PC	NUTA-3380	St.4 PC-10	7.75	7.77	7.76		2	TOC	3.12	0.07		-21.4		0.3	Nakamura et al. (2003)	
+Ver93-2_St.4-PC	Ver93-2 St.4-PC	NUTA-3381	St.4 PC-11	8.22	8.24	8.23		2	TOC	-0.36	0.06		-20.3		0.22	Nakamura et al. (2003)	
+Ver94-5_St.16-PC	Ver94-5 St.16-PC	NUTA-3848	St.16-6 PC			1.49			TOC	26.09	0.19		-23.6		0.76	Nakamura et al. (2003)	
+Ver94-5_St.16-PC	Ver94-5 St.16-PC	NUTA-4154	St.16-7 PC			1.93			TOC	32.41	0.38		-20.5		0.44	Nakamura et al. (2003)	
+Ver94-5_St.16-Pilot	Ver94-5 St.16-Pilot	NUTA-4153	St.16-1 Pilot			0.23			TOC	3.02	0.09		-26.9		1.99	Nakamura et al. (2003)	
+Ver94-5_St.16-Pilot	Ver94-5 St.16-Pilot	NUTA-3842	St.16-2 Pilot			0.43			TOC	7.81	0.18		-27.2		2.19	Nakamura et al. (2003)	
+Ver94-5_St.16-Pilot	Ver94-5 St.16-Pilot	NUTA-4134	St.16-3 Pilot			0.56			TOC	13.62	0.13		-26.9		0.93	Nakamura et al. (2003)	
+Ver94-5_St.16-Pilot	Ver94-5 St.16-Pilot	NUTA-3847	St.16-4 Pilot			0.91			TOC	19.43	0.14		-21.1		0.49	Nakamura et al. (2003)	
+Ver94-5_St.16-Pilot	Ver94-5 St.16-Pilot	NUTA-4161	St.16-5 Pilot			1.21			TOC	22.54	0.19		-21.8		0.38	Nakamura et al. (2003)	
+Ver94-5_St.19-PC	Ver94-5 St.19-PC	NUTA-4162	St.19-2-1 PC			0.267			TOC	31.33	0.39		-22.2		0.23	Nakamura et al. (2003)	
+Ver94-5_St.19-PC	Ver94-5 St.19-PC	NUTA-4164	St.19-2-2 PC			0.507			TOC	33.57	0.34		-21.6		0.61	Nakamura et al. (2003)	
+Ver94-5_St.22-GC	Ver94-5 St.22-GC	NUTA-5539	St.22-1	0.07	0.115	0.0925		4.5	TOC	3.69	0.08		-27.2		0.87	Nakamura et al. (2003)	
+Ver94-5_St.22-GC	Ver94-5 St.22-GC	NUTA-4106	St.22-2	0.37	0.41	0.39		4	TOC	6.06	0.08		-28.4		0.88	Nakamura et al. (2003)	
+Ver94-5_St.22-GC	Ver94-5 St.22-GC	NUTA-5540	St.22-3	0.7	0.74	0.72		4	TOC	5.59	0.08		-28		1.34	Nakamura et al. (2003)	
+Ver94-5_St.22-GC	Ver94-5 St.22-GC	NUTA-5498	St.22-4	1.1	1.14	1.12		4	TOC	5.57	0.09		-27.8		1.34	Nakamura et al. (2003)	
+Ver94-5_St.22-GC	Ver94-5 St.22-GC	NUTA-4111	St.22-5	1.4	1.44	1.42		4	TOC	10.27	0.08		-30.6		0.79	Nakamura et al. (2003)	
+Ver96-2_St.3-GC	Ver96-2 St.3-GC	NUTA-5551	St.3 GC1-1	0.08	0.1	0.09		2	TOC	3.52	0.08		-28.1		1.08	Nakamura et al. (2003)	
+Ver96-2_St.3-GC	Ver96-2 St.3-GC	NUTA-5552	St.3 GC1-2	0.28	0.3	0.29		2	TOC	4.55	0.09		-26.9		1.15	Nakamura et al. (2003)	
+Ver96-2_St.3-GC	Ver96-2 St.3-GC	NUTA-5554	St.3 GC1-3	0.48	0.5	0.49		2	TOC	6.38	0.09		-28.6		2.06	Nakamura et al. (2003)	
+Ver96-2_St.3-GC	Ver96-2 St.3-GC	NUTA-5555	St.3 GC1-4	0.68	0.7	0.69		2	TOC	9.15	0.1		-28.2		2.03	Nakamura et al. (2003)	
+Ver96-2_St.3-GC	Ver96-2 St.3-GC	NUTA-5556	St.3 GC1-5	0.88	0.9	0.89		2	TOC	11.64	0.13		-28.5		1.36	Nakamura et al. (2003)	
+Ver96-2_St.3-GC	Ver96-2 St.3-GC	NUTA-5557	St.3 GC2-1	1.06	1.08	1.07		2	TOC	14.41	0.14		-28.8		0.87	Nakamura et al. (2003)	
+Ver96-2_St.3-GC	Ver96-2 St.3-GC	NUTA-5524	St.3 GC2-2	1.18	1.2	1.19		2	TOC	21.2	0.23		-21.3		0.3	Nakamura et al. (2003)	
+Ver96-2_St.3-GC	Ver96-2 St.3-GC	NUTA-5562	St.3 GC2-3	1.58	1.6	1.59		2	TOC	23.01	0.24		-21.8		0.27	Nakamura et al. (2003)	
+Ver96-2_St.3-GC	Ver96-2 St.3-GC	NUTA-5563	St.3 GC3-1	2.25	2.27	2.26		2	TOC	30.54	0.49		-22.8		0.45	Nakamura et al. (2003)	
+Ver96-2_St.3-GC	Ver96-2 St.3-GC	NUTA-5564	St.3 GC3-2	2.95	2.97	2.96		2	TOC	34.47	0.69		-22.8		0.47	Nakamura et al. (2003)	
+Ver96-2_St.3-GC	Ver96-2 St.3-GC	NUTA-5565	St.3 GC4-1	3.23	3.25	3.24		2	TOC	35.14	0.76		-22.8		0.38	Nakamura et al. (2003)	
+Ver96-2_St.7-PC	Ver96-2 St.7-PC	NUTA2-008	St.7 PC-1	0.5	0.51	0.505		1	TOC	34.19	0.44		-22.5		0.17	Nakamura et al. (2003)	
+Ver96-2_St.7-PC	Ver96-2 St.7-PC	NUTA2-009	St.7 PC-2	0.72	0.73	0.725		1	TOC	40.12	0.66		-24.3		0.58	Nakamura et al. (2003)	
+Ver96-2_St.7-Pilot	Ver96-2 St.7-Pilot	NUTA2-0001	St.7 PI-1	0.6	0.61	0.605		1	TOC	24.32	0.21		-21.4		0.19	Nakamura et al. (2003)	
+Ver96-2_St.7-Pilot	Ver96-2 St.7-Pilot	NUTA2-0002	St.7 PI-2	0.9	0.91	0.905		1	TOC	28.28	0.27		-22.4		0.24	Nakamura et al. (2003)	
+Ver96-2_St.7-Pilot	Ver96-2 St.7-Pilot	NUTA2-0003	St.7 PI-3	1.2	1.21	1.205		1	TOC	33.66	0.87				0.34	Nakamura et al. (2003)	
+Ver96-2_St.7-Pilot	Ver96-2 St.7-Pilot	NUTA2-0004	St.7 PI-4	1.5	1.51	1.505		1	TOC	33.86	0.4		-21.5		0.25	Nakamura et al. (2003)	
+Ver96-2_St.7-Pilot	Ver96-2 St.7-Pilot	NUTA2-0005	St.7 PI-5	1.8	1.81	1.805		1	TOC	36.57	2.68		-20.8		0.23	Nakamura et al. (2003)	
+Ver96-2_St.7-Pilot	Ver96-2 St.7-Pilot	NUTA2-0006	St.7 PI-6	2.1	2.11	2.105		1	TOC	34.36	0.41		-18.9		0.18	Nakamura et al. (2003)	
+Ver96-2_St.7-Pilot	Ver96-2 St.7-Pilot	NUTA2-0007	St.7 PI-7	2.37	2.38	2.375		1	TOC	32.61	0.37		-23.1		0.16	Nakamura et al. (2003)	
+Ver97-1_St.6	Ver97-1 St.6	NUTA2-0031	St.6-1			0.0915			TOC	3.87	0.08		-27		0.88	Nakamura et al. (2003)	
+Ver97-1_St.6	Ver97-1 St.6	NUTA2-0033	St.6-2			0.5097			TOC	8.88	0.11		-27.7		1.52	Nakamura et al. (2003)	
+Ver97-1_St.6	Ver97-1 St.6	NUTA2-0034	St.6-3			1.3462			TOC	22.16	0.23		-20.1		0.26	Nakamura et al. (2003)	
+Ver97-1_St.6	Ver97-1 St.6	NUTA2-0035	St.6-4			1.9254			TOC	27.52	0.34		-23.1		0.32	Nakamura et al. (2003)	
+Ver97-1_St.6	Ver97-1 St.6	NUTA2-0036	St.6-5			2.374			TOC	31.7	0.44		-23.2		0.39	Nakamura et al. (2003)	
+VER98-1_St.5GC	VER98-1 St.5GC	NUTA2-10771	PA-2	0.01	0.02	0.015		1	TOC	3.391	0.034					"Watanabe et al., 2009a; Watanabe et al., 2009b"	
+VER98-1_St.5GC	VER98-1 St.5GC	NUTA2-6895	PA-19	0.18	0.19	0.185		1	TOC	4.796	0.034					"Watanabe et al., 2009a; Watanabe et al., 2009b"	
+VER98-1_St.5GC	VER98-1 St.5GC	NUTA2-5719	PA-31	0.3	0.31	0.305		1	TOC	7.311	0.035					"Watanabe et al., 2009a; Watanabe et al., 2009b"	
+VER98-1_St.5GC	VER98-1 St.5GC	NUTA2-6896	PA-49	0.48	0.49	0.485		1	TOC	10.1	0.048					"Watanabe et al., 2009a; Watanabe et al., 2009b"	
+VER98-1_St.5GC	VER98-1 St.5GC	NUTA2-7721	PA-57	0.56	0.57	0.565		1	TOC	11.772	0.04					"Watanabe et al., 2009a; Watanabe et al., 2009b"	
+VER98-1_St.5GC	VER98-1 St.5GC	NUTA2-5720	PA-59	0.58	0.59	0.585		1	TOC	12.152	0.047					"Watanabe et al., 2009a; Watanabe et al., 2009b"	
+VER98-1_St.5GC	VER98-1 St.5GC	NUTA2-7722	PA-61	0.6	0.61	0.605		1	TOC	12.869	0.04					"Watanabe et al., 2009a; Watanabe et al., 2009b"	
+VER98-1_St.5GC	VER98-1 St.5GC	NUTA2-7723	PA-63	0.62	0.63	0.625		1	TOC	12.718	0.038					"Watanabe et al., 2009a; Watanabe et al., 2009b"	
+VER98-1_St.5GC	VER98-1 St.5GC	NUTA2-6899	PA-67	0.66	0.67	0.665		1	TOC	12.93	0.048					"Watanabe et al., 2009a; Watanabe et al., 2009b"	
+VER98-1_St.5GC	VER98-1 St.5GC	NUTA2-5721	PA-74	0.73	0.74	0.735		1	TOC	13.009	0.049					"Watanabe et al., 2009a; Watanabe et al., 2009b"	
+VER98-1_St.5GC	VER98-1 St.5GC	NUTA2-10772	PA-76	0.75	0.76	0.755		1	TOC	13.421	0.048					"Watanabe et al., 2009a; Watanabe et al., 2009b"	
+VER98-1_St.5GC	VER98-1 St.5GC	NUTA2-10773	PA-78	0.77	0.78	0.775		1	TOC	14.817	0.05					"Watanabe et al., 2009a; Watanabe et al., 2009b"	
+VER98-1_St.5GC	VER98-1 St.5GC	NUTA2-10774	PA-80	0.79	0.8	0.795		1	TOC	15.669	0.053					"Watanabe et al., 2009a; Watanabe et al., 2009b"	
+VER98-1_St.5GC	VER98-1 St.5GC	NUTA2-7724	PA-81	0.8	0.81	0.805		1	TOC	17.98	0.051					"Watanabe et al., 2009a; Watanabe et al., 2009b"	
+VER98-1_St.5GC	VER98-1 St.5GC	NUTA2-10764	PB-4	0.88	0.89	0.885		1	TOC	20.12	0.067					"Watanabe et al., 2009a; Watanabe et al., 2009b"	
+VER98-1_St.5GC	VER98-1 St.5GC	NUTA2-10765	PB-10	0.94	0.95	0.945		1	TOC	20.612	0.069					"Watanabe et al., 2009a; Watanabe et al., 2009b"	
+VER98-1_St.5GC	VER98-1 St.5GC	NUTA2-10766	PB-30	1.14	1.15	1.145		1	TOC	23.771	0.083					"Watanabe et al., 2009a; Watanabe et al., 2009b"	
+VER98-1_St.5GC	VER98-1 St.5GC	NUTA2-10767	PB-50	1.34	1.35	1.345		1	TOC	25.839	0.095					"Watanabe et al., 2009a; Watanabe et al., 2009b"	
+VER98-1_St.5GC	VER98-1 St.5GC	NUTA2-5724	PB-75	1.59	1.6	1.595		1	TOC	27.838	0.121					"Watanabe et al., 2009a; Watanabe et al., 2009b"	
+VER-98-1St5PC	VER98-1 St.5PC	NUTA2-5722	1B-3	0.02	0.03	0.025		1	TOC	3.877	0.03					"Watanabe et al., 2009a"	
+VER-98-1St5PC	VER98-1 St.5PC	NUTA2-6903	1B-10	0.09	0.1	0.095		1	TOC	4.853	0.034					"Watanabe et al., 2009a"	
+VER-98-1St5PC	VER98-1 St.5PC	NUTA2-6906	1B-20	0.19	0.2	0.195		1	TOC	8.095	0.057					"Watanabe et al., 2009a"	
+VER-98-1St5PC	VER98-1 St.5PC	NUTA2-8448	1B-22	0.21	0.22	0.215		1	TOC	9.13	0.029					"Watanabe et al., 2009a"	
+VER-98-1St5PC	VER98-1 St.5PC	NUTA2-8450	1B-26	0.25	0.26	0.255		1	TOC	11.362	0.033					"Watanabe et al., 2009a"	
+VER-98-1St5PC	VER98-1 St.5PC	NUTA2-9576	1B-28	0.27	0.28	0.275		1	TOC	12.097	0.043					"Watanabe et al., 2009a"	
+VER-98-1St5PC	VER98-1 St.5PC	NUTA2-7726	1B-29a	0.28	0.29	0.285		1	TOC	13.814	0.04					"Watanabe et al., 2009a"	
+VER-98-1St5PC	VER98-1 St.5PC	NUTA2-9577	1B-29b	0.28	0.29	0.285		1	TOC	13.413	0.046					"Watanabe et al., 2009a"	
+VER-98-1St5PC	VER98-1 St.5PC	NUTA2-9578	1B-30	0.29	0.3	0.295		1	TOC	13.765	0.047					"Watanabe et al., 2009a"	
+VER-98-1St5PC	VER98-1 St.5PC	NUTA2-9579	1B-31	0.3	0.31	0.305		1	TOC	13.92	0.047					"Watanabe et al., 2009a"	
+VER-98-1St5PC	VER98-1 St.5PC	NUTA2-9580	1B-32	0.31	0.32	0.315		1	TOC	14.141	0.047					"Watanabe et al., 2009a"	
+VER-98-1St5PC	VER98-1 St.5PC	NUTA2-9581	1B-33	0.32	0.33	0.325		1	TOC	15.002	0.05					"Watanabe et al., 2009a"	
+VER-98-1St5PC	VER98-1 St.5PC	NUTA2-9583	1B-34	0.33	0.34	0.335		1	TOC	17.471	0.056					"Watanabe et al., 2009a"	
+VER-98-1St5PC	VER98-1 St.5PC	NUTA2-9584	1B-35	0.34	0.35	0.345		1	TOC	18.722	0.062					"Watanabe et al., 2009a"	
+VER-98-1St5PC	VER98-1 St.5PC	NUTA2-8451	1B-36	0.35	0.36	0.355		1	TOC	19.511	0.053					"Watanabe et al., 2009a"	
+VER-98-1St5PC	VER98-1 St.5PC	NUTA2-8452	1B-40	0.39	0.4	0.395		1	TOC	20.72	0.058					"Watanabe et al., 2009a"	
+VER-98-1St5PC	VER98-1 St.5PC	NUTA2-7950	1B-41	0.4	0.41	0.405		1	TOC	19.259	0.079					"Watanabe et al., 2009a"	
+VER-98-1St5PC	VER98-1 St.5PC	NUTA2-7951	1B-45	0.44	0.45	0.445		1	TOC	22.668	0.092					"Watanabe et al., 2009a"	
+VER-98-1St5PC	VER98-1 St.5PC	NUTA2-5723	1B-47	0.45	0.47	0.46		2	TOC	23.146	0.091					"Watanabe et al., 2009a"	
+VER-98-1St5PC	VER98-1 St.5PC	NUTA2-7952	1B-49	0.48	0.49	0.485		1	TOC	23.063	0.095					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-11133	PA-2	0.01	0.02	0.015		1	TOC	1.591	0.031					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-12776	PA-5	0.04	0.05	0.045		1	TOC	2.652	0.041					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-12777	PA-8	0.07	0.08	0.075		1	TOC	3.103	0.041					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-6894	PA-10	0.09	0.1	0.095		1	TOC	4.64	0.036					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-11134	PA-21	0.2	0.21	0.205		1	TOC	5.096	0.036					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-11135	PA-29	0.28	0.29	0.285		1	TOC	6.165	0.037					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-5717	PA-34	0.33	0.34	0.335		1	TOC	7.019	0.035					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-11136	PA-40	0.39	0.4	0.395		1	TOC	7.637	0.04					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-11127	PA-46	0.45	0.46	0.455		1	TOC	8.817	0.044					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-11128	PA-55	0.54	0.55	0.545		1	TOC	9.782	0.046					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-12778	PA-60	0.59	0.6	0.595		1	TOC	10.195	0.051					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-6898	PA-66	0.65	0.66	0.655		1	TOC	11.697	0.044					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-11129	PA-69	0.68	0.69	0.685		1	TOC	11.806	0.05					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-11131	PA-70	0.69	0.7	0.695		1	TOC	11.86	0.052					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-11142	PA-73	0.72	0.73	0.725		1	TOC	12.225	0.062					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-11143	PA-75	0.74	0.75	0.745		1	TOC	12.794	0.063					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-11132	PB-2	0.76	0.77	0.765		1	TOC	14.054	0.055					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-11144	PB-6	0.8	0.81	0.805		1	TOC	13.708	0.086					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-11137	PB-8	0.82	0.83	0.825		1	TOC	13.727	0.053					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-5712	PB-12	0.86	0.87	0.865		1	TOC	14.717	0.051					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-12779	PB-15	0.89	0.9	0.895		1	TOC	17.621	0.078					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-11139	PB-16	0.9	0.91	0.905		1	TOC	17.951	0.069					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-11140	PB-19	0.94	0.95	0.945		1	TOC	19.34	0.077					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-11141	PB-27	1.01	1.02	1.015		1	TOC	17.913	0.071					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-5713	PB-35	1.09	1.1	1.095		1	TOC	22.692	0.088					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-6901	PB-58	1.32	1.33	1.325		1	TOC	24.374	0.099					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-5717	PB-75	1.49	1.5	1.495		1	TOC	27.383	0.117					"Watanabe et al., 2009a"	
+VER98-1_St.6GC	VER98-1 St.6GC	NUTA2-6902	PB-90	1.64	1.65	1.645		1	TOC	29.06	0.116					"Watanabe et al., 2009a"	
+VER99G12	VER99G12	NUTA2-8898		0.03	0.04	0.035		1	TOC	1.793	0.028		-27.3		2.27	Watanabe et al. (2007)	
+VER99G12	VER99G12	NUTA2-8899		0.12	0.13	0.125		1	TOC	3.219	0.03		-27.6		2.86	Watanabe et al. (2007)	
+VER99G12	VER99G12	NUTA2-8900		0.54	0.55	0.545		1	TOC	4.792	0.032		-28.4		3.22	Watanabe et al. (2007)	
+VER99G12	VER99G12	NUTA2-8901		1.04	1.05	1.045		1	TOC	7.673	0.037		-28.2		2.62	Watanabe et al. (2007)	
+VER99G12	VER99G12	NUTA2-11632		1.22	1.23	1.225		1	TOC	8.544	0.027		-29.1		2.24	Watanabe et al. (2009b)	
+VER99G12	VER99G12	NUTA2-11633		1.3	1.31	1.305		1	TOC	9.131	0.029		-28.9		2.87	Watanabe et al. (2009b)	
+VER99G12	VER99G12	NUTA2-13990		1.39	1.4	1.395		1	TOC	9.688	0.036	IRMS	-28.8		2.43	Nara et al. (2010)	
+VER99G12	VER99G12	NUTA2-13991		1.5	1.51	1.505		1	TOC	8.975	0.036	IRMS	-28.9		2.09	Nara et al. (2010)	
+VER99G12	VER99G12	NUTA2-13254		1.54	1.55	1.545		1	TOC	9.882	0.045	IRMS	-28.6		2.34	Nara et al. (2010)	
+VER99G12	VER99G12	NUTA2-8902		1.54	1.55	1.545		1	TOC	10.335	0.042					Watanabe et al. (2007)	
+VER99G12	VER99G12	NUTA2-13992		1.56	1.57	1.565		1	TOC	9.21	0.036	IRMS	-29.9		2.15	Nara et al. (2010)	
+VER99G12	VER99G12	NUTA2-10711		1.59	1.6	1.595		1	TOC	9.453	0.039		-30.7		2.25	Watanabe et al. (2009b)	
+VER99G12	VER99G12	NUTA2-13993		1.62	1.63	1.625		1	TOC	9.479	0.036	IRMS	-29.1		2.25	Nara et al. (2010)	
+VER99G12	VER99G12	NUTA2-9597		1.64	1.65	1.645		1	TOC	10.164	0.05		-29.2		1.41	Watanabe et al. (2007)	
+VER99G12	VER99G12	NUTA2-10723		1.67	1.68	1.675		1	TOC	11.105	0.049		-26.7		1.57	Watanabe et al. (2009b)	
+VER99G12	VER99G12	NUTA2-9604		1.74	1.75	1.745		1	TOC	11.834	0.053		-27.2		1.26	Watanabe et al. (2007)	
+VER99G12	VER99G12	NUTA2-10749		1.74	1.75	1.745		1	TOC	10.739	0.046					Watanabe et al. (2009b)	
+VER99G12	VER99G12	NUTA2-13985		1.89	1.9	1.895		1	TOC	12.571	0.041	IRMS	-27		1.83	Nara et al. (2010)	
+VER99G12	VER99G12	NUTA2-13986		1.98	1.99	1.985		1	TOC	11.928	0.042	IRMS	-31.4		1.72	Nara et al. (2010)	
+VER99G12	VER99G12	NUTA2-13255		2	2.01	2.005		1	TOC	11.785	0.049	IRMS	-31.3		1.48	Nara et al. (2010)	
+VER99G12	VER99G12	NUTA2-9603		2	2.01	2.005		1	TOC	10.44	0.05					Watanabe et al. (2007)	
+VER99G12	VER99G12	NUTA-10717		2.02	2.03	2.025		1	TOC	8.763	0.037					Watanabe et al. (2009b)	
+VER99G12	VER99G12	NUTA2-13257		2.02	2.03	2.025		1	TOC	12.433	0.065	IRMS	-30.4		1.41	Nara et al. (2010)	
+VER99G12	VER99G12	NUTA2-13989		2.04	2.05	2.045		1	TOC	12.289	0.041	IRMS	-29.7		1.36	Nara et al. (2010)	
+VER99G12	VER99G12	JAT-12144		2.05	2.06	2.055		1	TOC	11.234	0.138	IRMS	-29.73		1.51	Nara et al. (2023)	
+VER99G12	VER99G12	JAT-12145		2.07	2.08	2.075		1	TOC	11.731	0.119	IRMS	-29.26		1.6	Nara et al. (2023)	
+VER99G12	VER99G12	JAT-12146		2.09	2.1	2.095		1	TOC	12.022	0.134	IRMS	-29.72		1.53	Nara et al. (2023)	
+VER99G12	VER99G12	JAT-12147		2.11	2.12	2.115		1	TOC	12.518	0.122	IRMS	-29.55		1.51	Nara et al. (2023)	
+VER99G12	VER99G12	JAT-12148		2.13	2.14	2.135		1	TOC	12.773	0.12	IRMS	-29.76		1.53	Nara et al. (2023)	
+VER99G12	VER99G12	NUTA2-9602		2.14	2.15	2.145		1	TOC	12.705	0.054		-29.6		1.57	Watanabe et al. (2007)	
+VER99G12	VER99G12	JAT-12149		2.15	2.16	2.155		1	TOC	13.841	0.121	IRMS	-28.09		1.8	Nara et al. (2023)	
+VER99G12	VER99G12	JAT-12150		2.17	2.18	2.175		1	TOC	13.575	0.118	IRMS	-29.28		1.42	Nara et al. (2023)	
+VER99G12	VER99G12	NUTA2-10716		2.18	2.19	2.185		1	TOC	13.81	0.047		-29.2		1.41	Watanabe et al. (2009b)	
+VER99G12	VER99G12	NUTA2-10715		2.22	2.23	2.225		1	TOC	14.69	0.049		-26.9		1.18	Watanabe et al. (2009b)	
+VER99G12	VER99G12	NUTA2-10712		2.3	2.31	2.305		1	TOC	15.154	0.052		-26.1		1.15	Watanabe et al. (2009b)	
+VER99G12	VER99G12	NUTA2-8905		2.4	2.41	2.405		1	TOC	15.714	0.056		-26.3		1.13	Watanabe et al. (2007)	
+VER99G12	VER99G12	NUTA2-9601		2.5	2.51	2.505		1	TOC	15.964	0.068		-25.9		1.09	Watanabe et al. (2007)	
+VER99G12	VER99G12	JAT-12151		2.53	2.54	2.535		1	TOC	15.627	0.127	IRMS	-26.48		0.76	Nara et al. (2023)	
+VER99G12	VER99G12	JAT-12152		2.59	2.6	2.595		1	TOC	15.41	0.121	IRMS	-27.33		0.77	Nara et al. (2023)	
+VER99G12	VER99G12	JAT-12153		2.61	2.62	2.615		1	TOC	15.324	0.125	IRMS	-27.56		0.71	Nara et al. (2023)	
+VER99G12	VER99G12	JAT-12154		2.63	2.64	2.635		1	TOC	15.744	0.121	IRMS	-26.58		1.21	Nara et al. (2023)	
+VER99G12	VER99G12	NUTA2-9600		2.65	2.66	2.655		1	TOC	16.139	0.069		-27.1		1	Watanabe et al. (2007)	
+VER99G12	VER99G12	JAT12155		2.66	2.67	2.665		1	TOC	15.923	0.123	IRMS	-26.8		0.91	Nara et al. (2023)	
+VER99G12	VER99G12	NUTA2-9598		2.67	2.68	2.675		1	TOC	15.543	0.066					Watanabe et al. (2007)	
+VER99G12	VER99G12	NUTA2-13258		2.67	2.68	2.675		1	TOC	17.43	0.071	IRMS	-26		0.92	Nara et al. (2010)	
+VER99G12	VER99G12	JAT-12156		2.68	2.69	2.685		1	TOC	14.662	0.117	IRMS	-26.29		1.04	Nara et al. (2023)	
+VER99G12	VER99G12	JAT-12157		2.69	2.7	2.695		1	TOC	16.464	0.128	IRMS	-26.18			Nara et al. (2023)	
+VER99G12	VER99G12	NUTA2-10718		2.72	2.73	2.725		1	TOC	17.551	0.058		-25.7		0.91	Watanabe et al. (2009b)	
+VER99G12	VER99G12	JAT-12159		2.74	2.75	2.745		1	TOC	16.671	0.124	IRMS	-25.94		0.64	Nara et al. (2023)	
+VER99G12	VER99G12	NUTA2-10724		2.77	2.78	2.775		1	TOC	17.649	0.072		-26.5		0.87	Watanabe et al. (2009b)	
+VER99G12	VER99G12	JAT-12160		2.77	2.78	2.775		1	TOC	17.011	0.126	IRMS	-26.52		0.87	Nara et al. (2023)	
+VER99G12	VER99G12	JAT-12161		2.78	2.79	2.785		1	TOC	17.154	0.126	IRMS	-26.96		0.82	Nara et al. (2023)	
+VER99G12	VER99G12	JAT-12162		2.81	2.82	2.815		1	TOC	16.619	0.125	IRMS	-25.96		0.57	Nara et al. (2023)	Accidentally given the Lab Code JAT-12161 in Nara et al.  (2023)
+VER99G12	VER99G12	NUTA2-10719		2.84	2.85	2.845		1	TOC	18.173	0.073		-25.9		0.6	Watanabe et al. (2009b)	
+VER99G12	VER99G12	JAT-12163		2.85	2.86	2.855		1	TOC	17.747	0.127	IRMS	-25.28		0.72	Nara et al. (2023)	Accidentally given the Lab Code JAT-12162 in Nara et al.  (2023)
+VER99G12	VER99G12	JAT-12164		2.87	2.88	2.875		1	TOC	17.436	0.127	IRMS	-25.77		0.81	Nara et al. (2023)	Accidentally given the Lab Code JAT-12163 in Nara et al.  (2023)
+VER99G12	VER99G12	NUTA2-8906		3.03	3.04	3.035		1	TOC	19.543	0.071		-25.6		0.6	Watanabe et al. (2007)	
+VER99G12	VER99G12	NUTA2-8907		4	4.01	4.005		1	TOC	23.654	0.091		-26.3		1.05	Watanabe et al. (2007)	
+VER99G12	VER99G12	NUTA2-10723		4.6	4.61	4.605		1	TOC	27.162	0.13		-26.4		0.94	Watanabe et al. (2009b)	
+VER99G12	VER99G12	NUTA2-10756		0.03	0.04	0.035		1	Total Lipids	1.805	0.035					Watanabe et al. (2009b)	
+VER99G12	VER99G12	NUTA2-10540		0.12	0.13	0.125		1	Total Lipids	3.105	0.029					Watanabe et al. (2009b)	
+VER99G12	VER99G12	NUTA2-10543		0.54	0.55	0.545		1	Total Lipids	4.792	0.032					Watanabe et al. (2009b)	
+VER99G12	VER99G12	NUTA2-10544		1.04	1.05	1.045		1	Total Lipids	7.522	0.032					Watanabe et al. (2009b)	
+VER99G12	VER99G12	NUTA2-10747		1.54	1.55	1.545		1	Total Lipids	9.356	0.043					Watanabe et al. (2009b)	
+VER99G12	VER99G12	NUTA2-10748		1.64	1.65	1.645		1	Total Lipids	10.971	0.045					Watanabe et al. (2009b)	
+VER99G12	VER99G12	NUTA2-10750		2.14	2.15	2.145		1	Total Lipids	13.167	0.05					Watanabe et al. (2009b)	
+VER99G12	VER99G12	NUTA2-10754		2.4	2.41	2.405		1	Total Lipids	14.886	0.053					Watanabe et al. (2009b)	
+VER99G12	VER99G12	NUTA2-10755		3.03	3.04	3.035		1	Total Lipids	18.825	0.066					Watanabe et al. (2009b)	
+VER99G12	VER99G12	NUTA2-11629		1.21	1.23	1.22		2	Pollen Concentrate	8.684	0.108					Nara et al. (2010)	
+VER99G12	VER99G12	NUTA2-11630		1.24	1.26	1.25		2	Pollen Concentrate	8.722	0.115					Nara et al. (2010)	
+VER99G12	VER99G12	NUTA2-11631		1.29	1.31	1.3		2	Pollen Concentrate	8.814	0.049					Nara et al. (2010)	
