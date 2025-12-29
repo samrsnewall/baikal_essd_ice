@@ -2,7 +2,7 @@
 
 This repository contains the interactive computing environment (ICE) used to reproduce the analyses and figures presented in:
 
-PAPER CITATION
+Newall et al. (2026), _A Complete Database of AMS Radiocarbon Estimates from Lake Baikal Sediment Cores with a Lake-Wide Assessment of TOC Age Offsets_, Earth System Science Data
 
 The ICE includes the curated Lake Baikal radiocarbon dataset (PANGAEA export), a reproducible computational environment, and a Jupyter notebook implementing all age-offset calculations used in the paper and all non-map figures used.
 
